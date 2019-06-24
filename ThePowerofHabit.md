@@ -106,7 +106,7 @@ It was belief itself that made a difference. Once people learned how to believe 
 
 We know that a habit cannot be eradicated — it must, instead, be replaced.
 
-we crave a cigarette at breakfast a month later not because we physically need it, but because we remrember so fondly the rush it once provided each morning.
+we crave a cigarette at breakfast a month later not because we physically need it, but because we remember so fondly the rush it once provided each morning.
 
 Much of the time, those changes are accomplished because people examine the cues, cravings, and rewards that drive their behaviors and then find ways to replace their self-destructive routines with healthier alternatives, even if they aren't fully aware of what they are doing at the time.
 
@@ -124,7 +124,7 @@ We were basically ceding decision making to a process that occurred without actu
 
 The best agencies understood the importance of routines. The worst agencies were headed by people who never thought about it, and then wondered why no one followed their orders.
 
-studies from the past decade examining the impacts of exercise on daily routines. When people start habitually exercising, even as infrequently as once a week, they start changing other, unrelated patterns in their lives, often unknowingly … But for many people, exercies is a keystone habit that triggers widespread change. "Exercise spills over," said James Prochaska, a University of Rhode Island researcher. "There's something about it that makes other good habits easier."
+studies from the past decade examining the impacts of exercise on daily routines. When people start habitually exercising, even as infrequently as once a week, they start changing other, unrelated patterns in their lives, often unknowingly … But for many people, exercise is a keystone habit that triggers widespread change. "Exercise spills over," said James Prochaska, a University of Rhode Island researcher. "There's something about it that makes other good habits easier."
 
 Detecting keystone habits means searching out **certain characteristics**. Keystone habits offer what is known within academic literature as "small wins." They help other habits to flourish by creating new structures, and they establish cultures where change becomes contagious.
 
@@ -182,7 +182,7 @@ Routines and truces offer a type of rough organizational justice, and because of
 
 Creating successful organizations isn't just a matter of balancing authority. For an organization to work, leaders must cultivate habits that both create a real and balanced peace and, paradoxically, make it absolutely clear who's in charge.
 
-All those leaders seized the possibilities created by a crisis. During turmoil, organizational habits become malleable enought to both assign responsibility and create a more equitable balance of power. Crises are so valuable, in fact, that sometimes it's worth stirring up a sense of looming catastrophe rather than letting it die down.
+All those leaders seized the possibilities created by a crisis. During turmoil, organizational habits become malleable enough to both assign responsibility and create a more equitable balance of power. Crises are so valuable, in fact, that sometimes it's worth stirring up a sense of looming catastrophe rather than letting it die down.
 
 But once a sense of crisis gripped Rhode Island Hospital, everyone become more open to change.
 
@@ -228,7 +228,7 @@ A movement starts because of the social habits of friendship and the strong ties
 
 on the whole, our deepest relationships tend to be with people who look like us, earn about the same amount of money, and come from similar backgrounds.
 
-Studies show that people have no problem ignoring strangers' injuries, but when a friend is insulted, our sense of outrange is enough to overcome the inertia that usually makes protests hard to organize.
+Studies show that people have no problem ignoring strangers' injuries, but when a friend is insulted, our sense of outrage is enough to overcome the inertia that usually makes protests hard to organize.
 
 Our weak-tie acquaintances are often as influential — if not more — than our close-tie friends.
 
@@ -248,7 +248,7 @@ Jesus still cries out in words that echo across the centuries: 'Love your enemie
 
 Embedded within King's philosophy was a set of new behaviors that converted participants from followers into self-directing leaders … the protest became a movement fueled by  people who were acting because they had taken ownership of a historic event.
 
-### 9. The Nuerology of Free Will - Are We Responsible for Our Habits?
+### 9. The Neurology of Free Will - Are We Responsible for Our Habits?
 
 "Sleepwalking is a reminder that wake and sleep are not mutually exclusive," Mark Mahowald, a professor of neurology at the University of Minnesota and a pioneer in understanding sleep behaviors, told me."The part of your brain that monitors your behavior is asleep, but the parts capable of very complex activities are awake. The problem is that there's nothing guiding the brain except for basic patterns, your most basic habits. You follow what exits in your head, because you're not capable of making a choice."
 
@@ -258,7 +258,7 @@ To a neurologist, in fact, a brain experiencing a sleep terror looks very simila
 
 Basal ganglia and the brain stem: the same regions where habits reside (as well as where behaviors related to sleep terrors start).
 
-The behaviors that occur unthinkingly are the evidence of our truest selves, he (Aristotle) said. So "just as a piece of land has to be prepared beforehand if it is to nourish the seed, so the miand of the pupil has to be prepared in its habits if it is to enjoy and dislike the right things." … habits — even once they are rooted in our minds — aren't destiny. We can choose our habits, once we know how. Everything we know about habits, from neurologists studying amnesiacs and organizational experts remaking companies, is that any of them can be changed, if you understand how they function … Hundreds of habits influence our days — they guide how we get dressed in the morning, talk to our kids, and fall asleep at night; they impact what we eat for lunch, how we do business, and whether we exercise or have a beer after work. Each of them has a different cue and offers a unique reward. Some are imple and others are complex, drawing upon emotional trigger and offering subtle neurochemical prizes. But every habit, no matter its complexity, is malleable. The most addicted alcoholics can become sober. The mos t dysfunctional companies can transform themselves. A high school dropout can became a successful manager … However, to modify a habit, you must decide to change it. You must consciously accept the hard work of identifying the cues and  rewards that drive the habits' routines, and find alternatives. You must know you have control and be self-conscious enough to use it.
+The behaviors that occur unthinkingly are the evidence of our truest selves, he (Aristotle) said. So "just as a piece of land has to be prepared beforehand if it is to nourish the seed, so the miand of the pupil has to be prepared in its habits if it is to enjoy and dislike the right things." … habits — even once they are rooted in our minds — aren't destiny. We can choose our habits, once we know how. Everything we know about habits, from neurologists studying amnesiacs and organizational experts remaking companies, is that any of them can be changed, if you understand how they function … Hundreds of habits influence our days — they guide how we get dressed in the morning, talk to our kids, and fall asleep at night; they impact what we eat for lunch, how we do business, and whether we exercise or have a beer after work. Each of them has a different cue and offers a unique reward. Some are simple and others are complex, drawing upon emotional trigger and offering subtle neurochemical prizes. But every habit, no matter its complexity, is malleable. The most addicted alcoholics can become sober. The mos t dysfunctional companies can transform themselves. A high school dropout can became a successful manager … However, to modify a habit, you must decide to change it. You must consciously accept the hard work of identifying the cues and  rewards that drive the habits' routines, and find alternatives. You must know you have control and be self-conscious enough to use it.
 
 And once you know a habit exist, you have the responsibility to change it.
 
@@ -268,11 +268,11 @@ Once you understand that habits can be rebuilt, the power of habit becomes easie
 
 My first act of free will shall be to believe in free will.
 
-Later, he would famously write that the will to believe is the most important ingredient in creating belief in change. And that one of the most important methods for creating that belief was habits. Habits, he noted, are what allow us to "do a thing with difficult the first time, but soon do it more and more easily, and finally, with sufficient practice, do it semi-mechanically, or with hardly any consciousness at all." Once we choose who we want to be, peoplr grow "to the way in which they have been exercised, just as a sheet of paper or a coat, once creased or folded, tends to fall forever afterward into the same identical folds."
+Later, he would famously write that the will to believe is the most important ingredient in creating belief in change. And that one of the most important methods for creating that belief was habits. Habits, he noted, are what allow us to "do a thing with difficult the first time, but soon do it more and more easily, and finally, with sufficient practice, do it semi-mechanically, or with hardly any consciousness at all." Once we choose who we want to be, people grow "to the way in which they have been exercised, just as a sheet of paper or a coat, once creased or folded, tends to fall forever afterward into the same identical folds."
 
 If you believe you can change — if you make it a habit — the change becomes real. This is the real power of habit: the insight that your habits are what you choose them to be. Once that choose occurs — and becomes automatic — it's not only real, it starts to seem inevitable, the thing, as James wrote, that bears "us irresistibly toward our destiny, whatever the latter may be."
 
-The way we habitually think of our surroundings and ourselves create the worlds that each of us inhabit. "There are thest two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says 'Morning, boys. How's the water?'" the writer David Foster Wallace told a class of graduating college students in 2005. "And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes 'What the hell is water?'"
+The way we habitually think of our surroundings and ourselves create the worlds that each of us inhabit. "There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says 'Morning, boys. How's the water?'" the writer David Foster Wallace told a class of graduating college students in 2005. "And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes 'What the hell is water?'"
 
 The water is habits, the unthinking choices and invisible decisions that surround us every day — and which, just by looking at them, become visible again.
 
