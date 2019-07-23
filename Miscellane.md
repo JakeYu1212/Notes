@@ -43,4 +43,7 @@ $$
 > Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person. It has been proposed to lie between 100 and 250, with a commonly used value of 150.
 
 
+$$
+\frac{坦克当前速度}{坦克最大行进速度} * (aimingSpeedMaxSpeed - aimingSpeed) + aimingSpeed
+$$
 
