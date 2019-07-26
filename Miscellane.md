@@ -17,7 +17,7 @@ $$
 #### 战斗公式：
 
 $$
-造成伤害 = 坦克攻击力* \frac{f(穿透,距离)}{地方装甲} * 敌方部位伤害系数
+造成伤害 = 坦克攻击力* \frac{f(穿透,距离)}{敌方装甲} * 敌方部位伤害系数
 $$
 
 ​									**穿透和距离的关系：**
@@ -41,6 +41,7 @@ $$
 ##### Dunbar's number:
 
 > Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person. It has been proposed to lie between 100 and 250, with a commonly used value of 150.
+
 
 
 $$
