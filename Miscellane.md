@@ -22,7 +22,7 @@ $$
 
 ​									**穿透和距离的关系：**
 
-![1562670738076](C:\Users\75235\AppData\Roaming\Typora\typora-user-images\1562670738076.png)
+![1562670738076](Miscellane.assets/1562670738076.png)
 
 ##### 泊松分布:
 
