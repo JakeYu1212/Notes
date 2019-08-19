@@ -26,7 +26,7 @@ def caculate_dau(excel_file_name):
     wb.sheets[0].range('D1').value = title
     wb.sheets[0].range('D2').options(transpose=True).value = estimate_dau
 
-# caculate_dau('Z3收入预估.xlsx')
+# caculate_dau('收入预估.xlsx')
 
 def caculate_monthday(indatetime):
     if indatetime.month < 12:
@@ -71,6 +71,6 @@ def caculate_mau(excel_file_name):
         wb.sheets['月活跃'].range('A2').options(transpose=True).value = month_series
         wb.sheets['月活跃'].range('B2').options(transpose=True).value = estimate_mau
 
-caculate_mau('Z3收入预估.xlsx')
+caculate_mau('收入预估.xlsx')
 
 
