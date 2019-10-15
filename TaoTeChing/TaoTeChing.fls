@@ -94,6 +94,12 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.aux
 INPUT /Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.aux
 OUTPUT /Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.aux
@@ -107,10 +113,6 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty

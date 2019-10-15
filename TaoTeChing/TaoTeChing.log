@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.11)  11 OCT 2019 22:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.11)  15 OCT 2019 14:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,93 +762,118 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip46
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip47
+\f@ncyO@elh=\skip48
+\f@ncyO@erh=\skip49
+\f@ncyO@olh=\skip50
+\f@ncyO@orh=\skip51
+\f@ncyO@elf=\skip52
+\f@ncyO@erf=\skip53
+\f@ncyO@olf=\skip54
+\f@ncyO@orf=\skip55
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (/Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.aux)
 \openout1 = `TaoTeChing.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
  (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
@@ -874,14 +899,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box31
- (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
- (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 144.
-)
-Package hyperref Info: Link coloring ON on input line 11.
+Package hyperref Info: Link coloring ON on input line 13.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
  (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -889,136 +907,333 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count117
 )
-LaTeX Info: Redefining \ref on input line 11.
-LaTeX Info: Redefining \pageref on input line 11.
-LaTeX Info: Redefining \nameref on input line 11.
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
  (/Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.out) (/Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.out)
 \@outlinefile=\write3
 \openout3 = `TaoTeChing.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 18--36
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24 \mainmatter
+                 [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 30--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--36
+Underfull \hbox (badness 10000) in paragraph at lines 30--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--36
+Underfull \hbox (badness 10000) in paragraph at lines 30--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--36
+Underfull \hbox (badness 10000) in paragraph at lines 30--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--36
+Underfull \hbox (badness 10000) in paragraph at lines 30--48
 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 \chapter
+l.49 \chapter
              *{2} [1
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 38--58
+Underfull \hbox (badness 10000) in paragraph at lines 50--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--58
+Underfull \hbox (badness 10000) in paragraph at lines 50--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--58
+Underfull \hbox (badness 10000) in paragraph at lines 50--70
 
  []
 
 [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 60--76
+Underfull \hbox (badness 10000) in paragraph at lines 72--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--76
+Underfull \hbox (badness 10000) in paragraph at lines 72--88
 
  []
 
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 78--86
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--86
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
 
  []
 
 [4
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 88--99
+Underfull \hbox (badness 10000) in paragraph at lines 100--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--99
+Underfull \hbox (badness 10000) in paragraph at lines 100--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--99
+Underfull \hbox (badness 10000) in paragraph at lines 100--111
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
 [5
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
+Underfull \hbox (badness 10000) in paragraph at lines 113--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--119
+
+ []
+
+[6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 121--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--134
+
+ []
+
+[7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 136--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--150
+
+ []
+
+[8
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 152--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--163
+
+ []
+
+[9
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 165--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--183
+
+ []
+
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 185--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--199
+
+ []
+
+[11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 201--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--211
+
+ []
+
+[12
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 213--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--232
+
+ []
+
+[13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 234--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--252
+
+ []
+
+[14
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 254--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--276
+
+ []
+
+[15
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 278--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--297
+
+ []
+
+[16
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 299--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--312
+
+ []
+
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 314--322
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
+[18
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
  (/Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
 Package rerunfilecheck Info: File `TaoTeChing.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 327.
  ) 
 Here is how much of TeX's memory you used:
- 7763 strings out of 493014
- 107159 string characters out of 6133350
- 195611 words of memory out of 5000000
- 11161 multiletter control sequences out of 15000+600000
+ 8308 strings out of 493014
+ 113052 string characters out of 6133350
+ 208039 words of memory out of 5000000
+ 11674 multiletter control sequences out of 15000+600000
  8090 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,24p,282b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,11n,43p,282b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.pdf (6 pages, 56965 bytes).
+Output written on /Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.pdf (20 pages, 67314 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
