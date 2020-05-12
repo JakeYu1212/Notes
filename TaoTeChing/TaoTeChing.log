@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.11)  5 MAY 2020 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.12.11)  10 MAY 2020 15:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1515,11 +1515,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 691--704
 [41
 
 ]
-Overfull \hbox (1.37036pt too wide) in paragraph at lines 706--736
-\OT1/cmr/m/n/12 The or-di-nary man keeps reach-ing for power;]] thus he never has enough. 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 706--736
 
  []
@@ -2086,7 +2081,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  30i,11n,43p,282b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.pdf (90 pages, 110697 bytes).
+Output written on /Users/Jake/Learning/[Notes]/TaoTeChing/TaoTeChing.pdf (90 pages, 110603 bytes).
 PDF statistics:
  524 PDF objects out of 1000 (max. 8388607)
  422 compressed objects within 5 object streams
