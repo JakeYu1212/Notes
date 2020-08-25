@@ -10,7 +10,7 @@ Because we each have our own goals and our own natures, each of us must choose o
 
 - ### Think for yourself to decide 1) what you want, 2) what is true, and 3) what you should do to achieve #1 in light of #2...
 
-People who have shared values and principles get along. People who don't will suffer through constant misudnerstandings and conflicts.
+People who have shared values and principles get along. People who don't will suffer through constant misunderstandings and conflicts.
 
 You will be faced with millions of choices in life, and the way you make them will reflect the principles you have.
 
