@@ -36,9 +36,9 @@ we are simply a group of people who are striving to be excellent at what we do a
 
 Time is like a river that carries us forward into encounters with reality that require us to make decisions. We can't stop our movement down this river and we can't avoid those encounters. We can only approach them in the best possible way.
 
-## CHAPTER 1 MY CARLL TO ADVENTURE: 1949-1976
+## CHAPTER 1 MY CALL TO ADVENTURE: 1949-1976
 
-I could't, and still can't, remember facts that don't have reasons for being what they are (like phone numbers), and I don't like following instructions.
+I couldn't, and still can't, remember facts that don't have reasons for being what they are (like phone numbers), and I don't like following instructions.
 
 ==For me, great is better than terrible, and terrible is better than mediocre, because terrible at least gives life flavor.==
 
@@ -48,13 +48,13 @@ My college years coincided with the era of free love, mind-expanding drug experi
 
 The times we lived in taught us both to question established ways of doing things---an attitude he demonstrated superbly in Apple's iconic "1984" and "Here's to the Crazy Ones", which were ad campaigns that spoke to me.
 
-You better make sense of what happened to other people in other times and other places because if you don't you won't know if thest things can happen to you and, if they do, you won't know how to deal with them.
+You better make sense of what happened to other people in other times and other places because if you don't you won't know if these things can happen to you and, if they do, you won't know how to deal with them.
 
 In trading you have to be defensive and aggressive at the same time. If you are not aggressive, you are not going to make money, and if you are not defensive, you are not going to keep money.
 
 To me it all looked like a beautiful machine with logical cause-effect relationships. By understanding these relationships, I could come up with decision rules(or principles) I could model.
 
-There are always risks out there that can hurt you badly, even in the seemingly saftest bets. so it's always best to assume you're missing something.
+There are always risks out there that can hurt you badly, even in the seemingly safest bets. so it's always best to assume you're missing something.
 
 While making money was good, having meaningful work and meaningful relationships war far better. To me, meaningful work is being on a mission I become engrossed in, and meaningful relationships are those I have with people I care deeply about and who care deeply about me.
 
