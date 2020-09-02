@@ -66,6 +66,12 @@ Timing is everything.
 
 challenging each other's ideas and trying to find the best answers;
 
+"How do I know I'm right?" And I saw clearly that the best way to answer this question is by finding other independent thinkers who are on the same mission as me and who see things differently from me. By engaging them in thoughtful disagreement, I'd be able to understand their reasoning and have them stress-test mine. That way, we can all raise our probability of being right.
+
+In other words, I just want to be right --- I don't care if the right answer comes from me.
+
+this experience led me to build Bridgewater as an idea meritocracy --- not an autocracy in which I lead and others follow, and not a democracy in which everyone's vote is equal --- but a meritocracy that encourages thoughtful disagreements and explores and weighs people's opinions in proportion to their merits.
+
 
 
 
