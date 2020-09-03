@@ -72,6 +72,16 @@ In other words, I just want to be right --- I don't care if the right answer com
 
 this experience led me to build Bridgewater as an idea meritocracy --- not an autocracy in which I lead and others follow, and not a democracy in which everyone's vote is equal --- but a meritocracy that encourages thoughtful disagreements and explores and weighs people's opinions in proportion to their merits.
 
+I came to see that people's greatest weaknesses are the flip sides of their greatest strengths.
+
+Most are too much one way and not enough another. Typically, by doing what comes naturally to us, we fail to account for our weakness, which leads us to crash. What happens after we crash is most important. Successful people change in ways that allow them to continue to take advantage of their strengths while compensating for their weakness and unsuccessful people don't.
+
+beneficial change begins when you can acknowledge and even embrace your weakness.
+
+"It was awful-tasting medicine, but I guess the patient needed it. Sometimes life hits you in the head with a brick. Don't lose faith. I'm convinced that the only thing that kept me going was that I loved what I did."
+
+I saw that to do exceptionally well you have to push your limits and that, if you push your limits, you will crash and it will hurt a lot. You will think you have failed --- but that won't be true unless you give up. Believe it or not, your pain will fade and you will have many other opportunities ahead of you, though you might not see them at the time. The most important thing you can do is to gather the lessons these failures provide and gain humility and radical open-mindedness in order to increase your chances of success. Then you press on.
+
 
 
 
