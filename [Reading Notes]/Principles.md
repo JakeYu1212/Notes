@@ -1,3 +1,5 @@
+[TOC]
+
 # INTRODUCTION
 
 Whatever success I've had in life has had more to do with my knowing how to deal with my ==*not*== knowing than anything I know.
@@ -81,6 +83,30 @@ beneficial change begins when you can acknowledge and even embrace your weakness
 "It was awful-tasting medicine, but I guess the patient needed it. Sometimes life hits you in the head with a brick. Don't lose faith. I'm convinced that the only thing that kept me going was that I loved what I did."
 
 I saw that to do exceptionally well you have to push your limits and that, if you push your limits, you will crash and it will hurt a lot. You will think you have failed --- but that won't be true unless you give up. Believe it or not, your pain will fade and you will have many other opportunities ahead of you, though you might not see them at the time. The most important thing you can do is to gather the lessons these failures provide and gain humility and radical open-mindedness in order to increase your chances of success. Then you press on.
+
+I learned to go slowly when faced with the choice between two things that you need that are seemingly at odds...how to have as much of both as possible. There is almost always a good path that you just haven't discovered yet, so look for it until you find it rather than settle for the choice that is then apparent for you.
+
+## CHAPTER 4 MY ROAD OF TRIALS: 1983-1994
+
+I never thought of what I was doing as building (or rebuilding) a company; I was just getting the things I needed to play my game.
+
+theoretically...if there was a computer that could hold all of the world's facts and if it was perfectly programmed mathematically expressly of the relationships between all of the world's parts, the future could be perfectly foretold.
+
+"He who lives by the crystal ball is destined to eat ground glass"
+
+Rather than argue about our conclusions, my partners and I would argue about our different decision-making criteria. Then we resolved our disagreements by testing the criteria objectively.
+
+I believe one of the most valuable things you can do to improve your decision making is to think through your principles for making decisions, write them out in both words and computer algorithms, back-test them if possible, and use them on a real-time basis to run in parallel with your brain's decision making.
+
+I learned that if you work hard and creatively, you can have just about anything you want, but not everything you want. Maturity is the ability to reject good alternatives in order to pursue even better ones.
+
+I had always wanted to have --- and to be around people who also wanted to have --- a life full of meaningful work and meaningful relationships, and to me a meaningful relationship is one that's open and honest in a way that lets people be straight with each other.
+
+All great investors and investment approaches have bad patches; losing faith in them at such times is as common a mistake as getting too enamored of them when they do well. Because most people are more emotional than logical, they tend to overreact to short-term results; they give up and sell low when times are bad and buy too high when times are good. I find this is just as true for relationships as it is for investments --- wise people stick with sound fundamentals through the ups and downs, while flighty people react emotionally to how things feel, jumping into things when they're hot and abandoning them when they're not.
+
+
+
+
 
 
 
