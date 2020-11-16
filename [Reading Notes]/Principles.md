@@ -104,6 +104,32 @@ I had always wanted to have --- and to be around people who also wanted to have 
 
 All great investors and investment approaches have bad patches; losing faith in them at such times is as common a mistake as getting too enamored of them when they do well. Because most people are more emotional than logical, they tend to overreact to short-term results; they give up and sell low when times are bad and buy too high when times are good. I find this is just as true for relationships as it is for investments --- wise people stick with sound fundamentals through the ups and downs, while flighty people react emotionally to how things feel, jumping into things when they're hot and abandoning them when they're not.
 
+because by reflecting on and learning from our poor performance, we made systematic improvements. I have come to realize that bad times coupled with good reflections provide some of the best lessons, and not just about business but also about relationships.
+
+I got a lot out of my bad times, not just because they game mistakes to learn from but also because they helped me find out who my real friends were --- the friends who would be with me through thick and thin.
+
+I didn't value experience as much as character, creativity, and common sense, which I suppose was related to my having started Bridgewater two years out of school myself, and my belief that ==having an ability to figure things out is more important than having specific knowledge of how to do something.==
+
+Making a handful of good uncorrelated bets that are balanced and leveraged well is the surest way of having a lot of upside without being exposed to unacceptable downside.
+
+What was great is that we made the most of our mistakes because we got in the habit of viewing them as opportunities to learn and improve.
+
+I believed strongly that we should bring problems and disagreements to the surface to learn what should be done to make things better.
+
+Having a process that ensures problems are brought to the surface, and their root causes diagnosed, assures that continual improvements occur.
+
+This looked to me like another one of those fork-in-the-road cases in which I had to choose between one of two seemingly essential but mutually exclusive options: 1) being radically truthful with each other including probing to bring our problems and weaknesses to the surface so we could deal with them forthrightly and 2) having happy and satisfied employees. And it reminds me that when facing with the choice between two things you need that are seemingly at odds, go slowly to figure out how you can have as much of both as possible. There is almost always a good path that you just haven't figured out yet, so look for it until you find it rather than settle for the choice that is then apparent to you.
+
+1. Put our honest thoughts out on the table,
+2. Have thoughtful disagreements in which people are willing to shift their opinions as they learn, and
+3. Have agreed-upon ways of deciding(e.g., voting, having clear authorities) if disagreements remain so that we can move beyond them without resentments.
+
+## CHAPTER 5 THE ULTIMATE BOON: 1995-2010
+
+To me, the greatest success you can have as the person in charge is to orchestrate others to do things well without you.
+
+We were both products of our environments. Investors think independently, anticipate things that haven't happened yet, and put real money at stake with their bets. Policymakers come from environments that nurture consensus, not dissent, that train them to react to things that have already occurred, and that prepare them for negotiations, not placing bets.
+
 
 
 
