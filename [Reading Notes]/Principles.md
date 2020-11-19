@@ -130,6 +130,72 @@ To me, the greatest success you can have as the person in charge is to orchestra
 
 We were both products of our environments. Investors think independently, anticipate things that haven't happened yet, and put real money at stake with their bets. Policymakers come from environments that nurture consensus, not dissent, that train them to react to things that have already occurred, and that prepare them for negotiations, not placing bets.
 
+I've always had great faith in my ability to figure things out, and over time my need to figure things out made me better at doing so. As a result, I tended to hire people who were the same way --- who would dive right into challenges, figure out what to do about them, and then do it. I figured that if they had great character, common sense, and creativity, and were driven to achieve our shared mission, they would discover what it took to be successful if I gave them the freedom to figure out how to make the right decision... If I was the one telling them what to do, I wouldn't be getting any leverage from them. Besides, I didn't want to work with people who needed that.
+
+It is the rare bird who has the right mix of common sense, creativity, and character to shape change.
+
+People who run companies are faced with important choices every day. How they make those choices determines the character of the company, the quality of its relationships, and the outcomes it produces.
+
+## CHAPTER 6 RETURNING THE BOON: 2011-2015
+
+I do things through trial and error --- making mistakes, figuring out what I did wrong, coming up with new principles, and finally succeeding --- and I didn't see why my transition should be any different.
+
+==A shaper is someone who comes up with unique and valuable visions and builds them out beautifully, typically over the doubts and opposition of others.==
+
+a man who could visualize and execute in breathtakingly wonderful ways.
+
+They had all visualized remarkable concepts and built organizations to actualize them, and done that repeatedly and over long periods of time.
+
+==They are all independent thinkers who do not let anything or anyone stand in the way of achieving their audacious goals. They have very strong mental maps of how things should be done, and at the same time a willingness to test those mental maps in the world of reality and change the ways they do things to make them work better. They are extremely resilient, because their need to achieve what they envision is stronger than the pain they experience as they struggle to achieve it. Perhaps most interesting, they have a a wider range of vision than most people, either because they have that vision themselves or because they know how to get it from others who can see what they can't. All are able to see both big pictures and granular details (and levels in between) and synthesize the perspectives they gain at those different levels, whereas most people see just one or the other. They are simultaneously creative, systematic, and practical. They are assertive and open-minded at the same time. Above all, they are passionate about what they are doing, intolerant of people who work for them who aren't excellent at what they do, and want to have a big, beneficial impact on the world.==
+
+The good habits come from thinking repeatedly in a principled way, like learning to speak a language. The good thinking comes from exploring the reasoning behind the principles.
+
+"Unattainable goals appeal to heroes," he once told me."Capable people are those who sit there worrying about the future. The unwise are those who worry about nothing. If conflicts got resolved before they became acute, there wouldn't be any heroes."
+
+A hero is someone who "found or achieved or [did] something beyond the normal range of achievement," and who "has given his life to something bigger than himself or other than himself."
+
+our culture of striving for excellence in work and excellence in relationships by being radically truthful and radically transparent with each other. They recounted how we uniquely and repeatedly tried new things, failed, learned from our failures, improved, and tried again, doing that over and over in an upward spiral.
+
+A community in which you always have the right and obligation to make sense of things and a process for working yourselves through disagreements --- i.e. a real, functioning idea meritocracy. I want you to think, no follow --- while recognizing that you can be wrong and that you have weaknesses --- and I want to help you get the most likely best answers, even you personally don't believe that they 're the best answers. I want to give you radical open-mindedness and an idea meritocracy that will take you from being trapped in your own heads to having access to the best minds in the world to help you make the best decisions for you and for our community. I want to help you all struggle well and evolve to get the most out of life.
+
+## CHAPTER 7 MY LAST YEAR AND MY GREATEST CHALLENGE: 2016-2017
+
+our modus operandi has always been to try, fail, diagnose, redesign, and try again.
+
+I realized again that what I didn't know was much greater than what I did.
+
+## CHAPTER 8 LOOKING BACK FROM A HIGHER LEVEL
+
+When I was faced with types of situations I had encountered before, I drew on the principles I had learned for dealing with them. But when I ran into ones I hadn't seen before, I would be painfully surprised.
+
+a healthy respect for history, a hunger to have a universal understanding or how reality works, and the desire to build timeless and universal principles for dealing with it.
+
+I realized that reality was, if not perfect, at least what we are given to deal with, so that any problem or frustrations I had with it were more productively directed to dealing with them effectively than complaining about them. I came to understand that my encounters were tests of my character and creativity.
+
+==Instead of feeling frustrated or overwhelmed, I saw pain as nature's reminder that there is something important for me to learn. Encountering pains and figuring out the lessons they were trying to give me became sort of a game to me.==..the process of reflecting, developing principles, and then getting rewards for using those principles.
+
+In time, I realize that the satisfaction of success doesn't come from achieving your goals, but from struggling well.
+
+Since life brings both ups and downs, struggling well doesn't just make your ups better; it makes your downs less bad. I'm still struggling and I will until I die, because even if I try to avoid the struggles, they will find me.
+
+Having the basics --- a good bed to sleep in, good relationships, good food, and good sex --- is most import, and those things don't get much better when you have a lot of money or much worse when you have less.
+
+The marginal benefits of having more fall off pretty quickly.
+
+I can say that being strong is better than being weak, and that struggling gives one strength.
+
+What I have seen is that the happiest people discover their own nature and match their life to it.
+
+# PART II LIFE PRINCIPLES
+
+Reality, in turn, will send you loud signals about how well your principles are working by rewarding or punishing you, so you will learn to fine-tune them accordingly.
+
+I suggest that you think through all the principles available to you from different sources and put together a collection of your own that you can turn to whenever reality sends "another one of those" your way.
+
+## 1  Embrace Reality and Deal with it
+
+
+
 
 
 
