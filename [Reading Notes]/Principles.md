@@ -194,6 +194,104 @@ I suggest that you think through all the principles available to you from differ
 
 ## 1  Embrace Reality and Deal with it
 
+By solving the puzzle, I get a gem in the form of a principle that helps me avoid the same sort of problem in the future. Collecting these gems continually improves my decision making, so I am able to ascend to higher and higher levels of play in which the game gets harder and the stakes become ever greater.
+
+All sorts of emotions come to me while I am playing and those emotions can either help me or hurt me. If I can reconcile my emotions with my logic and only act when they are aligned, I make better decisions.
+
+Learning how reality works, visualizing the things I want to create, and then building them out it incredibly exciting to me.
+
+I find it exhilarating being caught up in the feedback loop of rapid learning --- just as a surfer loves riding a wave, even though it sometimes leads to crashes.
+
+But I keep that pain in perspective, knowing that I will get through these setbacks and that most of my learning will come from reflecting on them. Just as long-distance runners push through pain to experience the pleasure of "runner's high," I have largely gotten past the pain of my mistake making and instead enjoy the pleasure that comes with learning from it. I believe that with practice you can change your habits and experience the same "mistake learner's high."
+
+### 1.1 Be a hyperrealist
+
+Understanding, accepting, and working with reality is both practical and beautiful. I have become so much of a hyperrealist that I've learned to appreciate the beauty of all realities, even harsh ones, and have come to despise impractical idealism.
+
+The pursuit of dreams is what gives life its flavor.
+
+#### a. Dreams + Reality + Determination = A Successful Life.
+
+People who achieve success and drive progress deeply understand the cause-effect relationships that govern reality and have principles for using them to get what they want.
+
+Over time I learned that getting more out of life wasn't just a matter of working harder at it. It was much more a matter of working effectively, because working effectively could increase my capacity of hundreds of times.
+
+### 1.2  Truth --- or, more precisely, an accurate understanding of reality --- is the essential foundation for any good outcome
+
+### 1.3  Be radically open-minded and radically transparent
+
+#### a. Radical open-mindedness and radical transparency are invaluable for rapid learning and effective change.
+
+Learning is the product of a continuous real-time feedback loop in which we make decisions, see their outcomes, and improve our understanding of reality as a result.
+
+The more open-minded you are, the less likely you are to deceive yourself --- and the more likely it is that others will give you honest feedback.
+
+Knowing when not to make your own decisions is one of the most important skills you can develop.
+
+#### b. Don't let fears of what others think of you stand in your way.
+
+You must be willing to do things int the unique ways you think are best --- and to open-mindedly reflect on the feedback that comes inevitably as a result of being that way.
+
+Learning to be radically transparent is like learning to speak in public: While it's initially awkward, the more you do ti, the more comfortable you will be with it.
+
+Imagine how may fewer misunderstandings we would have and how much more efficient the world would be --- and how much closer we all would be to knowing what's true --- if instead of hiding what they think, people shared it openly.
+
+#### c. Embracing radical truth and radical transparency will bring more meaningful work and more meaningful relationships.
+
+### 1.4  Look to nature to learn how reality works.
+
+While our higher-level thinking makes us unique among species, it can also make us uniquely confused.
+
+In contrast with animals, most people struggle to reconcile their emotions and their instincts(which come from the animal parts of their brains) with their reasoning(which comes from parts of the brain more developed in humans). This struggle causes people to confuse what they want to be true with what actually is true.
+
+#### a. Don't get hung up on your views of how things "should" be because you will miss out on learning how they really are.
+
+It's important not to let our biases stand in the way of our objectivity. To get good results, we need to be analytical rather than emotional.
+
+I now realize that nature optimizes for the whole, not for the individual, but most people judge good and bad based only on how it affects them.
+
+To me, nature seems to define good as what's good for the whole and optimizes for it, which is preferable.
+
+#### b. To be "good" something must operate consistently with the laws of reality and contribute to the evolution of the whole; that is what is most rewarded.
+
+#### c. Evolution is the single greatest force in the universe; it is the only thing that is permanent and it drives everything.
+
+While everything apparently dies or disappears in time, the truth is that it all just gets reconfigured in evolving forms.
+
+For example, the primary purpose of every living thing is to act as a vessel for the DNA that evolves life through time...It is simply the process by which things either adapt and improve or die.
+
+Evolution consists of adaptations/inventions that provide spurts of benefits that decline in value. That painful decline leads either to new adaptations and new inventions that bring new products, organization, and human capabilities to new and higher levels of development(as shown int the top diagram on the facing page); or decline and death, which looks like the diagram at bottom left.
+
+perfection doesn't exist; it is a goal that fuels a never-ending process of adaptation.
+
+Organisms, organizations, and individual people are always highly imperfect but capable of improving. So rather than getting stuck hiding our mistakes and pretending we're perfect, it makes sense to find our imperfections and deal with them.
+
+#### d. Evolve or die.
+
+The key is to fail, learn, and improve quickly.
+
+### 1.5  Evolving is life's greatest accomplishment and its greatest reward.
+
+evolution has produced a) incentives and interactions that lead to individuals pursuing their own interests and resulting in the advancement of the whole, b) the natural selection process, and c) rapid experimentation and adaptation.
+
+#### a. The individual's incentives must be aligned with the group's goals.
+
+#### b. Reality is optimizing for the whole --- not for you.
+
+#### c. Adaptation through rapid trial and error is invaluable.
+
+#### d. Realize that you are simultaneously everything and nothing --- and decide what you want to be.
+
+#### e. What you will be will depend on the perspective you have.
+
+Where you go in life will depend on how you see things and who and what you feel connected to (your family, your community, your country, mankind, the whole ecosystem, everything). You will have to decide to what extent you will put the interests of others above your own, and which others you will choose to do so for.
+
+My instinctual and intellectual goal is simply to evolve and contribute to evolution in some tiny way while I'm here and while I am what I am. At the same time, the things I love most --- my work and my relationships --- are what motivate me.
+
+### 1.6  Understand nature's practical lessons.
+
+
+
 
 
 
