@@ -50,3 +50,9 @@ In the `time` module there is a function called `time` that will return the curr
 time.time()
 ```
 
+Algorithm analysis is concerned with comparing algorithms based upon the amount of computing resources that each algorithm uses. 
+
+This measure would then be useful for judging the algorithm alone and could be used to compare algorithms across implementations.
+
+![../_images/newplot.png](https://runestone.academy/runestone/books/published/pythonds/_images/newplot.png)
+

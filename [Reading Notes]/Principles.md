@@ -290,6 +290,128 @@ My instinctual and intellectual goal is simply to evolve and contribute to evolu
 
 ### 1.6  Understand nature's practical lessons.
 
+I realized that most everything that at first seemed "bad" to me --- like rainy days, weaknesses, and even death --- was because I held preconceived notion of what I personally wanted. With time, I learned that my initial reaction was because I hadn't put whatever I was reacting to in the context of the fact that reality is built to optimize for the whole rather than for me.
+
+#### a. Maximize your evolution.
+
+The things are just the bait. Chasing after them forces us to evolve, and it is the evolution and not the rewards themselves that matters to us and to those around us. This means that for most people success is struggling and evolving as effectively as possible, i.e., learning rapidly about oneself and one's environment, and then changing to improve.
+
+The law of diminishing returns: the marginal benefits of moving from a shortage to an abundance of anything decline.
+
+If they are intellectually healthy, they will begin seeking something new or seeking new depths in something old --- and they will get stronger in the process. As Freud put it, "Love and work are the cornerstones of our humanness."
+
+The work doesn't necessarily have to be a job, though I believe it's generally better if it is a job. It can be any kind of long-term challenge that leads to personal improvement. As you might have guessed, I believe that the need to have meaningful work is connected to man's innate desire to improve. And relationships are the natural connections to others that make us relevant to each other and to society more broadly.
+
+#### b. Remember "no pain, no gain."
+
+While we don't like pain, everything that nature made has a purpose, so nature gave us pain for a purpose. So what is its purpose? It alerts us and helps direct us.
+
+#### c. It is a fundamental law of nature that in order to gain strength one has to push one's limits, which is painful.
+
+As Carl Jung put it, "Man needs difficulties. They are necessary for health."
+
+### 1.7  Pain + Reflection = Progress
+
+If you can develop a reflexive reaction to psychic pain that causes you to reflect on it rather than avoid it, it will lead to your rapid learning/evolving.
+
+If you can reflect deeply about your problems, they almost always shrink or disappear, because you almost always find a better way of dealing with them than if you don't face them head-on.
+
+If you can reflect well while you're in pain(which is probably too much to ask), great. But if you can remember to reflect after it passes, that's valuable too.
+
+If you choose to push through this often painful process of personal evolution, you will naturally "ascend" to higher and higher levels.
+
+The higher you ascend, the more effective you become at working with reality to shape outcomes toward your goals. What once seemed impossibly complex becomes simple.
+
+#### a. Go to the pain rather than avoid it.
+
+If you don't let up on yourself and instead become comfortable always operating with some level of pain, you will evolve at a faster pace.
+
+Every time you confront something painful, you are at a potentially important juncture in your life --- you have the opportunity to choose ==healthy and painful truth or unhealthy but comfortable delusion.==
+
+The irony is that if you choose the healthy route, the pain will soon turn into pleasure. The pain is the signal! Like switching from not exercising to exercising, developing the habit of embracing the pain and learning from it will "get you to the other side."
+
+#### b. Embrace tough love.
+
+If you can be open with your weakness it will make you freer and will help you deal with them better.
+
+The quality of your life will depend on the choices you make at those painful moments. The faster one appropriately adapts, the better.
+
+### 1.8  Weigh second- and third-order consequences.
+
+This is because first-order consequences often have opposite desirabilities from second-order consequences, resulting in big mistakes in decision making.
+
+Quite often the first-order consequences are the temptations that cost us what we really want, and sometimes they are the barriers that stand in our way. It's almost as though nature sorts us by throwing us trick choices that have both types of consequences and penalizing those who make their decisions on the basis of the first-order consequences alone.
+
+By contrast, people who choose what they really want, and avoid the temptations and get over the pains that drive them away from what they really want, are much more likely to have successful lives.
+
+### 1.9  Own your outcomes.
+
+life gives you so many decisions to make and so many opportunities to recover from your mistakes.
+
+but for the most part even the worst circumstances can be made better with the right approach.
+
+Whatever circumstances life brings you, you will be more likely to succeed and find happiness if you take responsibility for making your decisions well instead of complaining about things being beyond your control.
+
+internal locus of control
+
+Life doesn't give a damn about what you like. It's up to you to connect what you want with what you need to do to get it and then find the courage to carry it through.
+
+### 1.10  Look at the machine from the higher level.
+
+rise above your own and others' circumstances and objectively look down on them "higher-level thinking." Higher-level thinking gives you the ability to study and influence the cause-effect relationships at play in your life and use them to get the outcomes you want.
+
+#### a. Think of yourself as a machine operating within a machine and know that you have the ability to alter your machines to produce better outcomes.
+
+#### b. By comparing your outcomes with your goals, you can determine how to modify your machine.
+
+#### c. Distinguish between you as the designer of your machine and you as a worker with your machine.
+
+If you can recognize the differences between those roles and that it is much more important that you are a good designer/manager of your life than a good worker in it, you will be on the right path.
+
+#### d. The biggest mistake most people make is to not see themselves and other objectively, which leads them to bump into their own and others' weaknesses again and again.
+
+#### e. Successful people are those who can go above themselves to see things objectively and manage those things to shape change.
+
+They can take in the perspectives of others instead of being trapped in their own heads with their own biases. They are able to look objectively at what they are like --- their strengths and weaknesses --- and what others are like to put the right people in the right roles to achieve their goals. Once you understand how to do this you'll see that there's virtually nothing you can't accomplish.
+
+Imagine all the areas in which Einstein was incompetent, and imagine how hard he struggled to excel even in the areas in which he was the best in the world.
+
+Most of life's greatest opportunities come out of moments of struggle; it's up to you to make the most of these tests of creativity and character.
+
+#### f. Asking others who are strong in areas where you are weak to help you is a great skill that you should develop no matter what, as it will help you develop guardrails that will prevent you from doing what you shouldn't be doing.
+
+#### g. Because it is difficult to see oneself objectively, you need to rely on the input of others and the whole body of evidence.
+
+#### h. If you are open-minded enough and determined, you can get virtually anything you want.
+
+At the same time, I urge you to reflect on whether what you are going after is consistent with your nature.
+
+**SUMMARY:**
+
+**1. Don't confuse what you wish were true with what is really true.**
+
+**2. Don't worry about looking good --- worry instead about achieving your goals.**
+
+**3. Don't overweight first-order consequences relative to second- and third-order ones.**
+
+**4. Don't let pain stand in the way of progress.**
+
+**5. Don't blame bad outcomes on anyone but yourself.**
+
+## 2  Use the 5-Step Process to Get What You Want Out of Life
+
+**1. Have clear goals.**
+
+**2. Identify and don't tolerate the problems that stand in the way of your achieving those goals.**
+
+**3. Accurate diagnose the problems to get at their root causes.**
+
+**4. Design plans that will get you around them.**
+
+**5. Do what's necessary to push these designs through to results.**
+
+
+
 
 
 
