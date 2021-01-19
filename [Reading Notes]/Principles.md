@@ -410,6 +410,16 @@ At the same time, I urge you to reflect on whether what you are going after is c
 
 **5. Do what's necessary to push these designs through to results.**
 
+How you react to the pain that causes is up to you. If you want to react your goals, you must be calm and analytical so that you can accurately **diagnose** your problems, **design** a plan that will get you around them, and **do** what's necessary to push through to results.
+
+It is essential that you approach this process in a clearheaded rational way, looking down on yourself from a higher level and being ruthlessly honest.
+
+Mistakes are inevitable and it's important to recognize and accept this fact of life. The good news is that every mistake you make can teach you something, so there's no end to learning.
+
+So what if you don't have all the skills you need to succeed? Don't worry about it because that's true for everyone. You just have to know when they are needed and where you can go to get them. With practice, you will eventually play this game with a calm unstoppable centeredness in the face of adversity. Your ability to get what you want will thrill you.
+
+### 2.1  Have clear goals.
+
 
 
 
