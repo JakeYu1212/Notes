@@ -420,7 +420,17 @@ So what if you don't have all the skills you need to succeed? Don't worry about 
 
 ### 2.1  Have clear goals.
 
+#### a. Prioritize: While you can have virtually anything you want, you can't have everything you want.
 
+Choosing a goal often means rejecting some things you want in order to get other things that you want or need even more.
+
+Don't get discouraged and don't let yourself be paralyzed by all the choices. You can have much more than what you need to be happy. Make your choice and get on with it.
+
+#### b. Don't confuse goals with desires.
+
+Typically, desires are first-order consequences.
+
+#### c. Decide what you really want in life by reconciling your goals and your desires.
 
 
 

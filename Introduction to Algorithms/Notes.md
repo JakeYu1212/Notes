@@ -56,3 +56,49 @@ This measure would then be useful for judging the algorithm alone and could be u
 
 ![../_images/newplot.png](https://runestone.academy/runestone/books/published/pythonds/_images/newplot.png)
 
+On many occasions you will need to make decisions between time and space trade-offs.
+
+#### 3.6 Lists
+
+Two common operations are indexing and assigning to an index position. Both of these operations take the same amount of time no matter how large the list becomes. When an operation like this is independent of the size of the list they are 𝑂(1)O(1).
+
+Another very common programming task is to grow a list. There are two ways to create a longer list. You can use the append method or the concatenation operator. ==The append method is 𝑂(1). However, the concatenation operator is 𝑂(𝑘)== where 𝑘 is the size of the list that is being concatenated.
+
+To use `timeit` you create a `Timer` object whose parameters are two Python statements. The first parameter is a Python statement that you want to time; the second parameter is a statement that will run once to set up the test. The `timeit` module will then time how long it takes to execute the statement some number of times. By default `timeit` will try to run the statement one million times. When its done it returns the time as a floating point value representing the total number of seconds. However, since it executes the statement a million times you can read the result as the number of microseconds to execute the test one time. You can also pass `timeit` a named parameter called `number` that allows you to specify how many times the test statement is executed. 
+
+**Table 2: Big-O Efficiency of Python List Operators**
+
+| Operation        | Big-O Efficiency |
+| :--------------- | :--------------- |
+| index []         | O(1)             |
+| index assignment | O(1)             |
+| append           | O(1)             |
+| pop()            | O(1)             |
+| pop(i)           | O(n)             |
+| insert(i,item)   | O(n)             |
+| del operator     | O(n)             |
+| iteration        | O(n)             |
+| contains (in)    | O(n)             |
+| get slice [x:y]  | O(k)             |
+| del slice        | O(n)             |
+| set slice        | O(n+k)           |
+| reverse          | O(n)             |
+| concatenate      | O(k)             |
+| sort             | O(n log n)       |
+| multiply         | O(nk)            |
+
+#### 3.7 Dictionaries
+
+**Table 3: Big-O Efficiency of Python Dictionary Operations**
+
+| operation     | Big-O Efficiency |
+| :------------ | :--------------- |
+| copy          | O(n)             |
+| get item      | O(1)             |
+| set item      | O(1)             |
+| delete item   | O(1)             |
+| contains (in) | O(1)             |
+| iteration     | O(n)             |
+
+# 4. Basic Data Structures
+
