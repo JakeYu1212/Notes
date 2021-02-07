@@ -432,6 +432,24 @@ Typically, desires are first-order consequences.
 
 #### c. Decide what you really want in life by reconciling your goals and your desires.
 
+But what's key is what you do with your passion. Do you let it consume you and drive you to irrational acts, or do you harness it to motivate and drive you while you pursue your real goals?
+
+What will ultimately fulfill you are things that feel right at both levels, as both desires and goals.
+
+#### d. Don't mistake the trappings of success for success itself.
+
+#### e. Never rule out a goal because you think it's unattainable.
+
+#### f. Remember that great expectations create great capabilities.
+
+#### g. Almost nothing can stop you from succeeding if you have a) flexibility and b) self-accountability.
+
+Flexibility is what allows you to accept what reality(or knowledgeable people) teaches you; self-accountability is essential because if you really believe that failing to achieve a goal is your personal failure, you will see your failing to achieve it as indicative that you haven't been creative or flexible or determined enough to do what is takes. And you will be that much more motivated to find the way.
+
+#### h. Knowing how to deal well with your setbacks is as important as knowing how to move forward.
+
+### 2.2  Identify and don't tolerate problems
+
 
 
 
