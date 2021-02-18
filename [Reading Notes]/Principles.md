@@ -450,6 +450,26 @@ Flexibility is what allows you to accept what reality(or knowledgeable people) t
 
 ### 2.2  Identify and don't tolerate problems
 
+#### a. View painful problems as potential improvements that are screaming at you.
+
+#### b. Don't avoid confronting problems because they are rooted in harsh realities that are unpleasant to look at.
+
+Acknowledging your weaknesses is not the same as surrendering to them.
+
+#### c. Be specific in identifying your problems.
+
+#### d. Don't mistake a cause of a problem with the real problem.
+
+#### e. Distinguish big problems from small ones.
+
+You only have so much time and energy; make sure you are investing them in exploring the problems that, if fixed, will yield you the biggest returns.
+
+#### f. Once you identify a problem, don't tolerate it.
+
+You need to develop a fierce intolerance of badness of any kind, regardless of its severity.
+
+### 2.3  Diagnose problems to get at their root causes.
+
 
 
 
