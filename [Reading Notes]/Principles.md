@@ -470,6 +470,96 @@ You need to develop a fierce intolerance of badness of any kind, regardless of i
 
 ### 2.3  Diagnose problems to get at their root causes.
 
+#### a. Focus on the "what is" before deciding "what to do about it."
+
+Strategic thinking requires both diagnosis and design.
+
+determine the root causes.
+
+Like principles, root causes manifest themselves over and over again in seemingly different situations.
+
+#### b. Distinguish proximate causes from root causes.
+
+#### c. Recognize that knowing what someone (including you) is like will tell you what you can expect from them.
+
+what differentiates people who live up to their potential from those who don't is their willingness to look at themselves and others objectively and understand the root causes standing in their way.
+
+### 2.4  Design a plan.
+
+#### a. Go back before  you go forward.
+
+#### b. Think about your problem as a set of outcomes produced by a machine.
+
+#### c. Remember that there are typically many paths to achieving your goals.
+
+#### d. Think of your plan as being like a movie script in that you visualize who will do what through time.
+
+You should go from the big picture and drill down to specific tasks and estimated time lines.
+
+#### e. Write down your plan for everyone to see and to measure you progress against.
+
+#### f. Recognize that it doesn't take a lot of time ti design a good plan.
+
+Remember: Designing precedes doing!
+
+### 2.5  Push through to completion.
+
+#### a. Great planners who don't execute their plans go nowhere.
+
+You need to push through and that requires self-discipline to follow your script. It's important to remember the connections between your tasks and the goals that they are meant to achieve.
+
+#### b. Good work habits are vastly underrated.
+
+#### c. Establish clear metrics to make certain that you are following your plan.
+
+synthesize and shape well. The first three steps --- setting goals, identifying problems, and then diagnosing them --- are synthesizing (by which I mean knowing where you want to go and what's really going on). Designing solutions and making sure that the designs are implemented are shaping.
+
+### 2.6  Remember that weakness don't matter if you find solutions.
+
+have humility so you can get what you need from others!
+
+Knowing what your weaknesses are and staring hard at them is the first step on the path to success.
+
+#### a. Look at the patterns of your mistakes and identify at which step in the 5-Step Process you typically fail.
+
+#### b. Everyone has at least one big thing that stands in the way of their success; find yours and deal with it.
+
+While you and most people probably have more than one major impediment, if you can remove or get around that one really big one, you will hugely improve your life.
+
+There are two paths to success: 1) to have what you need yourself or 2) to get it from others.
+
+### 2.7  Understand your own and others' mental maps and humility.
+
+Having both open-mindedness and good mental maps is most powerful of all.
+
+once you understand what you're missing and gain open-mindedness that will allow you to get help from others, you'll see that there's virtually nothing you can't accomplish.
+
+## 3  Be Radically Open-Minded
+
+### 3.1 Recognize your two barriers.
+
+The two biggest barriers to good decision making are ==your ego and your blind spots.==
+
+#### a. Understand your ego barrier.
+
+your subliminal defense mechanisms that make it hard for you to accept your mistakes and weaknesses.
+
+Your deepest-seated needs and fears --- such as the need to be loved and the fear of losing love, the need to survive and the fear of not surviving, the need to be important and the fear of not mattering --- reside in primitive parts of your brain such as the amygdala, which are structures in your temporal lobe that process emotions. Because these areas of your brain are not accessible to your conscious awareness, it is virtually impossible for you to understand what they want and how they control you.
+
+neocortex...prefrontal cortex. This is where you experience the conscious awareness of decision making (the so-called "executive function"), as well as the application of logic and reasoning.
+
+#### b. Your two "you" fight to control you.
+
+a) logical/conscious you
+
+b) emotional/subconscious you
+
+To be effective you must not let your need to be right be more important than your need to find out what's true.
+
+If you are too proud of what you know or of how good you are at something you will learn less, make inferior decisions, and fall short of your potential.
+
+
+
 
 
 
