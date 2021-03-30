@@ -102,3 +102,7 @@ To use `timeit` you create a `Timer` object whose parameters are two Python stat
 
 # 4. Basic Data Structures
 
+#### 4.7 Infix, Prefix and Postfix Expressions
+
+Only infix notation requires the additional symbols. The order of operations within prefix and postfix expressions is completely determined by the position of the operator and nothing else
+
