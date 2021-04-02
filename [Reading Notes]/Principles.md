@@ -558,6 +558,18 @@ To be effective you must not let your need to be right be more important than yo
 
 If you are too proud of what you know or of how good you are at something you will learn less, make inferior decisions, and fall short of your potential.
 
+#### c. Understand your blind spot barrier.
+
+blind spots---areas where your way of thinking prevents you from seeing things accurately...we have different ranges for seeing and understanding things. We each see things in our own way.
+
+Naturally, people can't appreciate what they can't see.
+
+This closed-mindedness is terribly costly; it causes you to miss out on all sorts of wonderful possibilities and dangerous threats that other people might be showing you---and it blocks criticism that could be constructive and even lifesaving.
+
+Aristotle defined tragedy as a terrible outcome arising from a person's fatal flaw---a flaw that, had it been fixed, instead would have led to a wonderful outcome. In my opinion, these two barriers---ego and blind spots---are the fatal flaws that keep intelligent, hardworking people from living up to their potential.
+
+### 3.2 Practice radical open-mindedness.
+
 
 
 
