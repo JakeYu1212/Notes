@@ -570,6 +570,22 @@ Aristotle defined tragedy as a terrible outcome arising from a person's fatal fl
 
 ### 3.2 Practice radical open-mindedness.
 
+Radical open-mindedness is motivated by the genuine worry that you might not be seeing your choices optimally.
+
+replace your attachment to always being right with the joy of learning what's true.
+
+#### a. Sincerely believe that you might not know the best possible path and recognize that your ability to deal well with "not knowing" is more important than whatever it is you do know.
+
+Most people make bad decisions because they are so certain that they're right that they don't allow themselves to see the better alternatives that exist.
+
+Radically open-minded people know that coming up with the right questions and asking other smart people what they think is as important as having all the answers.
+
+They understand that you can't make a great decision without swimming for a while in a state of "not knowing." That is because what exists within the area of "not knowing" is so much greater and more exciting than anything any one of us know.
+
+#### b. Recognize that decision making is a two-step process: First take in all the relevant information, then decide.
+
+
+
 
 
 
