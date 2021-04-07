@@ -106,3 +106,46 @@ To use `timeit` you create a `Timer` object whose parameters are two Python stat
 
 Only infix notation requires the additional symbols. The order of operations within prefix and postfix expressions is completely determined by the position of the operator and nothing else
 
+#### 4.14 Simulation: Printing Tasks
+
+However, it is important to remember that the simulation is only as good as the assumptions that are used to build it. Real data about the number of print tasks per hour and the number of students per hour was necessary to construct a robust simulation.
+
+#### 4.15 What Is a Deque?
+
+In a sense, this hybrid linear structure provides all the capabilities of stacks and queues in a single data structure.
+
+#### 4.19 Lists
+
+A **list** is a collection of items where each item holds a relative position with respect to the others.
+
+#### 4.21 Implementing an Unordered List: Linked Lists
+
+Each **node** object must hold at least two pieces of information. First, the node must contain the list item itself. We will call this the **data field** of the node. In addition, each node must hold a **reference** to the next node.
+
+#### 4.22 The Ordered List Abstract Data Type
+
+The structure of an ordered list is a collection of items where each item holds a relative position that is based upon some underlying characteristic of the item. 
+
+#### 4.23 Implementing an Ordered List
+
+node and link structure is ideal for representing the relative positioning of the items.
+
+# 5. Recursion
+
+#### 5.1 Objectives
+
+The goals for this chapter are as follows:
+
+- To understand that complex problems that may otherwise be difficult to solve may have a simple recursive solution.
+- To learn how to formulate programs recursively.
+- To understand and apply the three laws of recursion.
+- To understand recursion as a form of iteration.
+- To implement the recursive formulation of a problem.
+- To understand how recursion is implemented by a computer system.
+
+Usually recursion involves a function calling itself. While it may not seem like much on the surface, recursion allows us to write elegant solutions to problems that may otherwise be very difficult to program.
+
+
+
+
+
