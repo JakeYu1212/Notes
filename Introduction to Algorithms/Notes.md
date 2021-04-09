@@ -151,6 +151,10 @@ A recursive function is a function that calls itself.
 2. A recursive algorithm must change its state and move toward the base case.
 3. A recursive algorithm must call itself, recursively.
 
+When a function is called in Python, a **stack frame** is allocated to handle the local variables of the function. When the function returns, the return value is left on top of the stack for the calling function to access.
+
+The stack frames also provide a scope for the variables used by the function. Even though we are calling the same function over and over, each call creates a new scope for the variables that are local to the function.
+
 
 
 
