@@ -132,8 +132,6 @@ node and link structure is ideal for representing the relative positioning of th
 
 # 5. Recursion
 
-#### 5.1 Objectives
-
 The goals for this chapter are as follows:
 
 - To understand that complex problems that may otherwise be difficult to solve may have a simple recursive solution.
@@ -144,6 +142,16 @@ The goals for this chapter are as follows:
 - To understand how recursion is implemented by a computer system.
 
 Usually recursion involves a function calling itself. While it may not seem like much on the surface, recursion allows us to write elegant solutions to problems that may otherwise be very difficult to program.
+
+A recursive function is a function that calls itself.
+
+**The Three Laws of Recursion**
+
+1. A recursive algorithm must have a **base case**.
+2. A recursive algorithm must change its state and move toward the base case.
+3. A recursive algorithm must call itself, recursively.
+
+
 
 
 
