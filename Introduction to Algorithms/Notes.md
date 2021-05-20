@@ -1,4 +1,4 @@
-# **1.Introduction**
+# **1. Introduction**
 
 In addition, programmers can create their own exceptions if they detect a situation in the program execution that warrants it.
 
@@ -26,7 +26,7 @@ greatest common divisor, or GCD
 
 Euclid’s Algorithm states that the greatest common divisor of two integers 𝑚 and 𝑛 is 𝑛 if 𝑛 divides 𝑚 evenly. However, if 𝑛 does not divide 𝑚 evenly, then the answer is the greatest common divisor of 𝑛 and the remainder of 𝑚 divided by 𝑛.
 
-Any new logic gate that gets added to the hierarchy will simply need to implement the performGateLogic function and it will be used at the appropriate time. Once done, the gate can provide its output value. This ability to extend a hierarchy that currently exists and provide the specific functions that the hierarchy needs to use the new class is extremely important for reusing existing code.
+Any new logic gate that gets added to the hierarchy will simply need to implement the perform GateLogic function and it will be used at the appropriate time. Once done, the gate can provide its output value. This ability to extend a hierarchy that currently exists and provide the specific functions that the hierarchy needs to use the new class is extremely important for reusing existing code.
 
 This is a very common pattern that you should always use when building class hierarchies. Child class constructors need to call parent class constructors and then move on to their own distinguishing data.
 
@@ -155,9 +155,21 @@ When a function is called in Python, a **stack frame** is allocated to handle th
 
 The stack frames also provide a scope for the variables used by the function. Even though we are calling the same function over and over, each call creates a new scope for the variables that are local to the function.
 
+# 6. Sorting and Searching
 
+#### 6.5 Hashing
 
+The mapping between an item and the slot where that item belongs in the hash table is called the **hash function**. The hash function will take any item in the collection and return an integer in the range of slot names, between 0 and *m*-1.
 
+Now when we want to search for an item, we simply use the hash function to compute the slot name for the item and then check the hash table to see if it is present. This searching operation is O(1)O(1), since a constant amount of time is required to compute the hash value and then index the hash table at that location. If everything is where it should be, we have found a constant time search algorithm.
+
+Given a collection of items, a hash function that maps each item into a unique slot is referred to as a **perfect hash function**.
+
+Our goal is to create a hash function that minimizes the number of collisions, is easy to compute, and evenly distributes the items in the hash table.
+
+The important thing to remember is that the hash function has to be efficient so that it does not become the dominant part of the storage and search process.
+
+It is important to note that the size of the “skip” must be such that all the slots in the table will eventually be visited. Otherwise, part of the table will be unused. To ensure this, it is often suggested that the table size be a prime number.
 
 
 
