@@ -171,5 +171,11 @@ The important thing to remember is that the hash function has to be efficient so
 
 It is important to note that the size of the “skip” must be such that all the slots in the table will eventually be visited. Otherwise, part of the table will be unused. To ensure this, it is often suggested that the table size be a prime number.
 
+#### 6.6 Sorting
+
+First, it will be necessary to compare two values to see which is smaller (or larger). The total number of comparisons will be the most common way to measure a sort procedure.
+
+Second, when values are not in the correct position with respect to one another, it may be necessary to exchange them. This exchange is a costly operation and the total number of exchanges will also be important for evaluating the overall efficiency of the algorithm.
+
 
 
