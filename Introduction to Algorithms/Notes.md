@@ -177,5 +177,11 @@ First, it will be necessary to compare two values to see which is smaller (or la
 
 Second, when values are not in the correct position with respect to one another, it may be necessary to exchange them. This exchange is a costly operation and the total number of exchanges will also be important for evaluating the overall efficiency of the algorithm.
 
+#### 6.7 Bubble Sort
+
+In Python, it is possible to perform simultaneous assignment. The statement `a,b=b,a` will result in two assignment statements being done at the same time.
+
+A bubble sort can be modified to stop early if it finds that the list has become sorted. This means that for lists that require just a few passes, a bubble sort may have an advantage in that it will recognize the sorted list and stop, which is often referred to as the **short bubble**.
+
 
 
