@@ -183,5 +183,17 @@ In Python, it is possible to perform simultaneous assignment. The statement `a,b
 
 A bubble sort can be modified to stop early if it finds that the list has become sorted. This means that for lists that require just a few passes, a bubble sort may have an advantage in that it will recognize the sorted list and stop, which is often referred to as the **short bubble**.
 
+#### 6.9 Insertion Sort
+
+In general, a shift operation requires approximately a third of the processing work of an exchange since only one assignment is performed.
+
+#### 6.10 Shell Sort
+
+
+
+
+
+
+
 
 
