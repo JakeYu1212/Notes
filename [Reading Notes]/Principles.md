@@ -584,6 +584,20 @@ They understand that you can't make a great decision without swimming for a whil
 
 #### b. Recognize that decision making is a two-step process: First take in all the relevant information, then decide.
 
+Most people are reluctant to take in information that is inconsistent with what they have already concluded.
+
+Nothing could be further from the truth. Taking in others' perspectives in order to consider them in no way reduces your freedom to think independently and make your own decisions. It will just broaden your perspective as you make them.
+
+#### c. Don't worry about looking good; worry about achieving your goal.
+
+People interested in making the best possible decisions are rarely confident that they have the best answers. They recognize that they have weakness and blind spots, and they always seek to learn more so that they can get around them.
+
+#### d. Realize that you can't put out without taking in.
+
+#### e. Recognize that to gain the perspective that comes from seeing things through another's eyes, you must suspend judgement for a time --- only by empathizing can you properly evaluate another point of view.
+
+
+
 
 
 
