@@ -189,6 +189,18 @@ In general, a shift operation requires approximately a third of the processing w
 
 #### 6.10 Shell Sort
 
+# 7. Trees and Tree Algorithm
+
+#### 7.2 Examples of Trees
+
+1.By hierarchical, we mean that trees are structured in layers with the more general things near the top and the more specific things near the bottom.
+
+2.A second property of trees is that all of the children of one node are independent of the children of another node.
+
+3.A third property is that each leaf node is unique.
+
+#### 7.3 Vocabulary and Definitions
+
 
 
 
