@@ -201,6 +201,25 @@ In general, a shift operation requires approximately a third of the processing w
 
 #### 7.3 Vocabulary and Definitions
 
+An edge connects two nodes to show that there is a relationship between them. Every node (except the root) is connected by exactly one incoming edge from another node. Each node may have several outgoing edges.
+
+The root of the tree is the only node in the tree that has no incoming edges.
+
+A path is an ordered list of nodes that are connected by edges.
+
+A leaf node is a node that has no children.
+
+The height of a tree is equal to the maximum level of any node in the tree. 
+
+**Definition One**: A tree consists of a set of nodes and a set of edges that connect pairs of nodes. A tree has the following properties:
+
+- One node of the tree is designated as the root node.
+- Every node *n*, except the root node, is connected by an edge from exactly one other node *p*, where *p* is the parent of *n*.
+- A unique path traverses from the root to each node.
+- If each node in the tree has a maximum of two children, we say that the tree is a **binary tree**.
+
+**Definition Two**: A tree is either empty or consists of a root and zero or more subtrees, each of which is also a tree. The root of each subtree is connected to the root of the parent tree by an edge.
+
 
 
 
