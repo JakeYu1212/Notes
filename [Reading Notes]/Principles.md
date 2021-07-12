@@ -596,6 +596,26 @@ People interested in making the best possible decisions are rarely confident tha
 
 #### e. Recognize that to gain the perspective that comes from seeing things through another's eyes, you must suspend judgement for a time --- only by empathizing can you properly evaluate another point of view.
 
+Open-mindedness means considering the reasoning of others instead of stubbornly and illogically holding on to your own point of view. To be radically open-minded, you need to be so open to the possibility that you could be wrong that you encourage others to tell you so.
+
+#### f. Remember that you're looking for the best answer, not simply the best answer that you can come up with yourself.
+
+If you're truly looking at things objectively, you must recognize that the probability of you always having the best answer is small and that, even if you have it, you can't be confident that you do before others test you.
+
+#### g. Be clear on whether you are arguing or seeking to understand, and think about which is most appropriate based on your and others' believability.
+
+I define believable people as those who have repeatedly and successfully accomplished the thing in question --- who have a strong track record with at least three successes --- and have great explanations of their approach when probed.
+
+If you have a different view than someone who is believable on the topic at hand --- or at least more believable than you are (if, say, you are in a discussion with your doctor about your health) --- you should  make it clear that you are asking questions because you are seeking to understand their perspective. Conversely, if you are clearly the more believable person, you might politely remind the other of that and suggest that they ask you questions.
+
+### 3.3 Appreciate the art of thoughtful disagreement
+
+In thoughtful disagreement, your goal is not to convince the other party that you are right --- it is to find out which view is true and decide what to do about it.
+
+In thoughtful disagreement, both parties are motivated by the genuine fear of missing important perspectives.
+
+Use questions rather than make statements. Conduct the discussion in a calm and dispassionate manner, and encourage the other person to do that as well. Remember, you are not arguing; you are openly exploring what's true.
+
 
 
 
