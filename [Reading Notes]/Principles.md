@@ -210,7 +210,7 @@ Understanding, accepting, and working with reality is both practical and beautif
 
 The pursuit of dreams is what gives life its flavor.
 
-#### a. Dreams + Reality + Determination = A Successful Life.
+**a. Dreams + Reality + Determination = A Successful Life.**
 
 People who achieve success and drive progress deeply understand the cause-effect relationships that govern reality and have principles for using them to get what they want.
 
@@ -220,7 +220,7 @@ Over time I learned that getting more out of life wasn't just a matter of workin
 
 ### 1.3  Be radically open-minded and radically transparent
 
-#### a. Radical open-mindedness and radical transparency are invaluable for rapid learning and effective change.
+**a. Radical open-mindedness and radical transparency are invaluable for rapid learning and effective change.**
 
 Learning is the product of a continuous real-time feedback loop in which we make decisions, see their outcomes, and improve our understanding of reality as a result.
 
@@ -228,7 +228,7 @@ The more open-minded you are, the less likely you are to deceive yourself --- an
 
 Knowing when not to make your own decisions is one of the most important skills you can develop.
 
-#### b. Don't let fears of what others think of you stand in your way.
+**b. Don't let fears of what others think of you stand in your way.**
 
 You must be willing to do things int the unique ways you think are best --- and to open-mindedly reflect on the feedback that comes inevitably as a result of being that way.
 
@@ -236,7 +236,7 @@ Learning to be radically transparent is like learning to speak in public: While 
 
 Imagine how may fewer misunderstandings we would have and how much more efficient the world would be --- and how much closer we all would be to knowing what's true --- if instead of hiding what they think, people shared it openly.
 
-#### c. Embracing radical truth and radical transparency will bring more meaningful work and more meaningful relationships.
+**c. Embracing radical truth and radical transparency will bring more meaningful work and more meaningful relationships.**
 
 ### 1.4  Look to nature to learn how reality works.
 
@@ -244,7 +244,7 @@ While our higher-level thinking makes us unique among species, it can also make 
 
 In contrast with animals, most people struggle to reconcile their emotions and their instincts(which come from the animal parts of their brains) with their reasoning(which comes from parts of the brain more developed in humans). This struggle causes people to confuse what they want to be true with what actually is true.
 
-#### a. Don't get hung up on your views of how things "should" be because you will miss out on learning how they really are.
+**a. Don't get hung up on your views of how things "should" be because you will miss out on learning how they really are.**
 
 It's important not to let our biases stand in the way of our objectivity. To get good results, we need to be analytical rather than emotional.
 
@@ -252,9 +252,9 @@ I now realize that nature optimizes for the whole, not for the individual, but m
 
 To me, nature seems to define good as what's good for the whole and optimizes for it, which is preferable.
 
-#### b. To be "good" something must operate consistently with the laws of reality and contribute to the evolution of the whole; that is what is most rewarded.
+**b. To be "good" something must operate consistently with the laws of reality and contribute to the evolution of the whole; that is what is most rewarded.**
 
-#### c. Evolution is the single greatest force in the universe; it is the only thing that is permanent and it drives everything.
+**c. Evolution is the single greatest force in the universe; it is the only thing that is permanent and it drives everything.**
 
 While everything apparently dies or disappears in time, the truth is that it all just gets reconfigured in evolving forms.
 
@@ -266,7 +266,7 @@ perfection doesn't exist; it is a goal that fuels a never-ending process of adap
 
 Organisms, organizations, and individual people are always highly imperfect but capable of improving. So rather than getting stuck hiding our mistakes and pretending we're perfect, it makes sense to find our imperfections and deal with them.
 
-#### d. Evolve or die.
+**d. Evolve or die.**
 
 The key is to fail, learn, and improve quickly.
 
@@ -274,15 +274,15 @@ The key is to fail, learn, and improve quickly.
 
 evolution has produced a) incentives and interactions that lead to individuals pursuing their own interests and resulting in the advancement of the whole, b) the natural selection process, and c) rapid experimentation and adaptation.
 
-#### a. The individual's incentives must be aligned with the group's goals.
+**a. The individual's incentives must be aligned with the group's goals.**
 
-#### b. Reality is optimizing for the whole --- not for you.
+**b. Reality is optimizing for the whole --- not for you.**
 
-#### c. Adaptation through rapid trial and error is invaluable.
+**c. Adaptation through rapid trial and error is invaluable.**
 
-#### d. Realize that you are simultaneously everything and nothing --- and decide what you want to be.
+**d. Realize that you are simultaneously everything and nothing --- and decide what you want to be.**
 
-#### e. What you will be will depend on the perspective you have.
+**e. What you will be will depend on the perspective you have.**
 
 Where you go in life will depend on how you see things and who and what you feel connected to (your family, your community, your country, mankind, the whole ecosystem, everything). You will have to decide to what extent you will put the interests of others above your own, and which others you will choose to do so for.
 
@@ -292,7 +292,7 @@ My instinctual and intellectual goal is simply to evolve and contribute to evolu
 
 I realized that most everything that at first seemed "bad" to me --- like rainy days, weaknesses, and even death --- was because I held preconceived notion of what I personally wanted. With time, I learned that my initial reaction was because I hadn't put whatever I was reacting to in the context of the fact that reality is built to optimize for the whole rather than for me.
 
-#### a. Maximize your evolution.
+**a. Maximize your evolution.**
 
 The things are just the bait. Chasing after them forces us to evolve, and it is the evolution and not the rewards themselves that matters to us and to those around us. This means that for most people success is struggling and evolving as effectively as possible, i.e., learning rapidly about oneself and one's environment, and then changing to improve.
 
@@ -302,11 +302,11 @@ If they are intellectually healthy, they will begin seeking something new or see
 
 The work doesn't necessarily have to be a job, though I believe it's generally better if it is a job. It can be any kind of long-term challenge that leads to personal improvement. As you might have guessed, I believe that the need to have meaningful work is connected to man's innate desire to improve. And relationships are the natural connections to others that make us relevant to each other and to society more broadly.
 
-#### b. Remember "no pain, no gain."
+**b. Remember "no pain, no gain."**
 
 While we don't like pain, everything that nature made has a purpose, so nature gave us pain for a purpose. So what is its purpose? It alerts us and helps direct us.
 
-#### c. It is a fundamental law of nature that in order to gain strength one has to push one's limits, which is painful.
+**c. It is a fundamental law of nature that in order to gain strength one has to push one's limits, which is painful.**
 
 As Carl Jung put it, "Man needs difficulties. They are necessary for health."
 
@@ -322,7 +322,7 @@ If you choose to push through this often painful process of personal evolution, 
 
 The higher you ascend, the more effective you become at working with reality to shape outcomes toward your goals. What once seemed impossibly complex becomes simple.
 
-#### a. Go to the pain rather than avoid it.
+**a. Go to the pain rather than avoid it.**
 
 If you don't let up on yourself and instead become comfortable always operating with some level of pain, you will evolve at a faster pace.
 
@@ -330,7 +330,7 @@ Every time you confront something painful, you are at a potentially important ju
 
 The irony is that if you choose the healthy route, the pain will soon turn into pleasure. The pain is the signal! Like switching from not exercising to exercising, developing the habit of embracing the pain and learning from it will "get you to the other side."
 
-#### b. Embrace tough love.
+**b. Embrace tough love.**
 
 If you can be open with your weakness it will make you freer and will help you deal with them better.
 
@@ -360,17 +360,17 @@ Life doesn't give a damn about what you like. It's up to you to connect what you
 
 rise above your own and others' circumstances and objectively look down on them "higher-level thinking." Higher-level thinking gives you the ability to study and influence the cause-effect relationships at play in your life and use them to get the outcomes you want.
 
-#### a. Think of yourself as a machine operating within a machine and know that you have the ability to alter your machines to produce better outcomes.
+**a. Think of yourself as a machine operating within a machine and know that you have the ability to alter your machines to produce better outcomes.**
 
-#### b. By comparing your outcomes with your goals, you can determine how to modify your machine.
+**b. By comparing your outcomes with your goals, you can determine how to modify your machine.**
 
-#### c. Distinguish between you as the designer of your machine and you as a worker with your machine.
+**c. Distinguish between you as the designer of your machine and you as a worker with your machine.**
 
 If you can recognize the differences between those roles and that it is much more important that you are a good designer/manager of your life than a good worker in it, you will be on the right path.
 
-#### d. The biggest mistake most people make is to not see themselves and other objectively, which leads them to bump into their own and others' weaknesses again and again.
+**d. The biggest mistake most people make is to not see themselves and other objectively, which leads them to bump into their own and others' weaknesses again and again.**
 
-#### e. Successful people are those who can go above themselves to see things objectively and manage those things to shape change.
+**e. Successful people are those who can go above themselves to see things objectively and manage those things to shape change.**
 
 They can take in the perspectives of others instead of being trapped in their own heads with their own biases. They are able to look objectively at what they are like --- their strengths and weaknesses --- and what others are like to put the right people in the right roles to achieve their goals. Once you understand how to do this you'll see that there's virtually nothing you can't accomplish.
 
@@ -378,11 +378,11 @@ Imagine all the areas in which Einstein was incompetent, and imagine how hard he
 
 Most of life's greatest opportunities come out of moments of struggle; it's up to you to make the most of these tests of creativity and character.
 
-#### f. Asking others who are strong in areas where you are weak to help you is a great skill that you should develop no matter what, as it will help you develop guardrails that will prevent you from doing what you shouldn't be doing.
+**f. Asking others who are strong in areas where you are weak to help you is a great skill that you should develop no matter what, as it will help you develop guardrails that will prevent you from doing what you shouldn't be doing.**
 
-#### g. Because it is difficult to see oneself objectively, you need to rely on the input of others and the whole body of evidence.
+**g. Because it is difficult to see oneself objectively, you need to rely on the input of others and the whole body of evidence.**
 
-#### h. If you are open-minded enough and determined, you can get virtually anything you want.
+**h. If you are open-minded enough and determined, you can get virtually anything you want.**
 
 At the same time, I urge you to reflect on whether what you are going after is consistent with your nature.
 
@@ -420,57 +420,57 @@ So what if you don't have all the skills you need to succeed? Don't worry about 
 
 ### 2.1  Have clear goals.
 
-#### a. Prioritize: While you can have virtually anything you want, you can't have everything you want.
+**a. Prioritize: While you can have virtually anything you want, you can't have everything you want.**
 
 Choosing a goal often means rejecting some things you want in order to get other things that you want or need even more.
 
 Don't get discouraged and don't let yourself be paralyzed by all the choices. You can have much more than what you need to be happy. Make your choice and get on with it.
 
-#### b. Don't confuse goals with desires.
+**b. Don't confuse goals with desires.**
 
 Typically, desires are first-order consequences.
 
-#### c. Decide what you really want in life by reconciling your goals and your desires.
+**c. Decide what you really want in life by reconciling your goals and your desires.**
 
 But what's key is what you do with your passion. Do you let it consume you and drive you to irrational acts, or do you harness it to motivate and drive you while you pursue your real goals?
 
 What will ultimately fulfill you are things that feel right at both levels, as both desires and goals.
 
-#### d. Don't mistake the trappings of success for success itself.
+**d. Don't mistake the trappings of success for success itself.**
 
-#### e. Never rule out a goal because you think it's unattainable.
+**e. Never rule out a goal because you think it's unattainable.**
 
-#### f. Remember that great expectations create great capabilities.
+**f. Remember that great expectations create great capabilities.**
 
-#### g. Almost nothing can stop you from succeeding if you have a) flexibility and b) self-accountability.
+**g. Almost nothing can stop you from succeeding if you have a) flexibility and b) self-accountability.**
 
 Flexibility is what allows you to accept what reality(or knowledgeable people) teaches you; self-accountability is essential because if you really believe that failing to achieve a goal is your personal failure, you will see your failing to achieve it as indicative that you haven't been creative or flexible or determined enough to do what is takes. And you will be that much more motivated to find the way.
 
-#### h. Knowing how to deal well with your setbacks is as important as knowing how to move forward.
+**h. Knowing how to deal well with your setbacks is as important as knowing how to move forward.**
 
 ### 2.2  Identify and don't tolerate problems
 
-#### a. View painful problems as potential improvements that are screaming at you.
+**a. View painful problems as potential improvements that are screaming at you.**
 
-#### b. Don't avoid confronting problems because they are rooted in harsh realities that are unpleasant to look at.
+**b. Don't avoid confronting problems because they are rooted in harsh realities that are unpleasant to look at.**
 
 Acknowledging your weaknesses is not the same as surrendering to them.
 
-#### c. Be specific in identifying your problems.
+**c. Be specific in identifying your problems.**
 
-#### d. Don't mistake a cause of a problem with the real problem.
+**d. Don't mistake a cause of a problem with the real problem.**
 
-#### e. Distinguish big problems from small ones.
+**e. Distinguish big problems from small ones.**
 
 You only have so much time and energy; make sure you are investing them in exploring the problems that, if fixed, will yield you the biggest returns.
 
-#### f. Once you identify a problem, don't tolerate it.
+**f. Once you identify a problem, don't tolerate it.**
 
 You need to develop a fierce intolerance of badness of any kind, regardless of its severity.
 
 ### 2.3  Diagnose problems to get at their root causes.
 
-#### a. Focus on the "what is" before deciding "what to do about it."
+**a. Focus on the "what is" before deciding "what to do about it."**
 
 Strategic thinking requires both diagnosis and design.
 
@@ -478,39 +478,39 @@ determine the root causes.
 
 Like principles, root causes manifest themselves over and over again in seemingly different situations.
 
-#### b. Distinguish proximate causes from root causes.
+**b. Distinguish proximate causes from root causes.**
 
-#### c. Recognize that knowing what someone (including you) is like will tell you what you can expect from them.
+**c. Recognize that knowing what someone (including you) is like will tell you what you can expect from them.**
 
 what differentiates people who live up to their potential from those who don't is their willingness to look at themselves and others objectively and understand the root causes standing in their way.
 
 ### 2.4  Design a plan.
 
-#### a. Go back before  you go forward.
+**a. Go back before  you go forward.**
 
-#### b. Think about your problem as a set of outcomes produced by a machine.
+**b. Think about your problem as a set of outcomes produced by a machine.**
 
-#### c. Remember that there are typically many paths to achieving your goals.
+**c. Remember that there are typically many paths to achieving your goals.**
 
-#### d. Think of your plan as being like a movie script in that you visualize who will do what through time.
+**d. Think of your plan as being like a movie script in that you visualize who will do what through time.**
 
 You should go from the big picture and drill down to specific tasks and estimated time lines.
 
-#### e. Write down your plan for everyone to see and to measure you progress against.
+**e. Write down your plan for everyone to see and to measure you progress against.**
 
-#### f. Recognize that it doesn't take a lot of time ti design a good plan.
+**f. Recognize that it doesn't take a lot of time ti design a good plan.**
 
 Remember: Designing precedes doing!
 
 ### 2.5  Push through to completion.
 
-#### a. Great planners who don't execute their plans go nowhere.
+**a. Great planners who don't execute their plans go nowhere.**
 
 You need to push through and that requires self-discipline to follow your script. It's important to remember the connections between your tasks and the goals that they are meant to achieve.
 
-#### b. Good work habits are vastly underrated.
+**b. Good work habits are vastly underrated.**
 
-#### c. Establish clear metrics to make certain that you are following your plan.
+**c. Establish clear metrics to make certain that you are following your plan.**
 
 synthesize and shape well. The first three steps --- setting goals, identifying problems, and then diagnosing them --- are synthesizing (by which I mean knowing where you want to go and what's really going on). Designing solutions and making sure that the designs are implemented are shaping.
 
@@ -520,9 +520,9 @@ have humility so you can get what you need from others!
 
 Knowing what your weaknesses are and staring hard at them is the first step on the path to success.
 
-#### a. Look at the patterns of your mistakes and identify at which step in the 5-Step Process you typically fail.
+**a. Look at the patterns of your mistakes and identify at which step in the 5-Step Process you typically fail.**
 
-#### b. Everyone has at least one big thing that stands in the way of their success; find yours and deal with it.
+**b. Everyone has at least one big thing that stands in the way of their success; find yours and deal with it.**
 
 While you and most people probably have more than one major impediment, if you can remove or get around that one really big one, you will hugely improve your life.
 
@@ -540,7 +540,7 @@ once you understand what you're missing and gain open-mindedness that will allow
 
 The two biggest barriers to good decision making are ==your ego and your blind spots.==
 
-#### a. Understand your ego barrier.
+**a. Understand your ego barrier.**
 
 your subliminal defense mechanisms that make it hard for you to accept your mistakes and weaknesses.
 
@@ -548,7 +548,7 @@ Your deepest-seated needs and fears --- such as the need to be loved and the fea
 
 neocortex...prefrontal cortex. This is where you experience the conscious awareness of decision making (the so-called "executive function"), as well as the application of logic and reasoning.
 
-#### b. Your two "you" fight to control you.
+**b. Your two "you" fight to control you.**
 
 a) logical/conscious you
 
@@ -558,7 +558,7 @@ To be effective you must not let your need to be right be more important than yo
 
 If you are too proud of what you know or of how good you are at something you will learn less, make inferior decisions, and fall short of your potential.
 
-#### c. Understand your blind spot barrier.
+**c. Understand your blind spot barrier.**
 
 blind spots---areas where your way of thinking prevents you from seeing things accurately...we have different ranges for seeing and understanding things. We each see things in our own way.
 
@@ -574,7 +574,7 @@ Radical open-mindedness is motivated by the genuine worry that you might not be 
 
 replace your attachment to always being right with the joy of learning what's true.
 
-#### a. Sincerely believe that you might not know the best possible path and recognize that your ability to deal well with "not knowing" is more important than whatever it is you do know.
+**a. Sincerely believe that you might not know the best possible path and recognize that your ability to deal well with "not knowing" is more important than whatever it is you do know.**
 
 Most people make bad decisions because they are so certain that they're right that they don't allow themselves to see the better alternatives that exist.
 
@@ -582,27 +582,27 @@ Radically open-minded people know that coming up with the right questions and as
 
 They understand that you can't make a great decision without swimming for a while in a state of "not knowing." That is because what exists within the area of "not knowing" is so much greater and more exciting than anything any one of us know.
 
-#### b. Recognize that decision making is a two-step process: First take in all the relevant information, then decide.
+**b. Recognize that decision making is a two-step process: First take in all the relevant information, then decide.**
 
 Most people are reluctant to take in information that is inconsistent with what they have already concluded.
 
 Nothing could be further from the truth. Taking in others' perspectives in order to consider them in no way reduces your freedom to think independently and make your own decisions. It will just broaden your perspective as you make them.
 
-#### c. Don't worry about looking good; worry about achieving your goal.
+**c. Don't worry about looking good; worry about achieving your goal.**
 
 People interested in making the best possible decisions are rarely confident that they have the best answers. They recognize that they have weakness and blind spots, and they always seek to learn more so that they can get around them.
 
-#### d. Realize that you can't put out without taking in.
+**d. Realize that you can't put out without taking in.**
 
-#### e. Recognize that to gain the perspective that comes from seeing things through another's eyes, you must suspend judgement for a time --- only by empathizing can you properly evaluate another point of view.
+**e. Recognize that to gain the perspective that comes from seeing things through another's eyes, you must suspend judgement for a time --- only by empathizing can you properly evaluate another point of view.**
 
 Open-mindedness means considering the reasoning of others instead of stubbornly and illogically holding on to your own point of view. To be radically open-minded, you need to be so open to the possibility that you could be wrong that you encourage others to tell you so.
 
-#### f. Remember that you're looking for the best answer, not simply the best answer that you can come up with yourself.
+**f. Remember that you're looking for the best answer, not simply the best answer that you can come up with yourself.**
 
 If you're truly looking at things objectively, you must recognize that the probability of you always having the best answer is small and that, even if you have it, you can't be confident that you do before others test you.
 
-#### g. Be clear on whether you are arguing or seeking to understand, and think about which is most appropriate based on your and others' believability.
+**g. Be clear on whether you are arguing or seeking to understand, and think about which is most appropriate based on your and others' believability.**
 
 I define believable people as those who have repeatedly and successfully accomplished the thing in question --- who have a strong track record with at least three successes --- and have great explanations of their approach when probed.
 
@@ -616,9 +616,103 @@ In thoughtful disagreement, both parties are motivated by the genuine fear of mi
 
 Use questions rather than make statements. Conduct the discussion in a calm and dispassionate manner, and encourage the other person to do that as well. Remember, you are not arguing; you are openly exploring what's true.
 
+People who change their minds because they learned something are the winners, whereas those who stubbornly refuse to learn are the losers.
 
+You should be what I call open-minded and assertive at the same time --- you should hold and explore conflicting possibilities in your mind while moving fluidly toward whatever is likely to be true based on what you learn.
 
+a "two-minute rule" in which neither interrupts the other, so they both have time to get all their thoughts out.
 
+Working through disagreements does take time but it's just about the best way you can spend it. What's important is that you prioritize what you spend time on and who you spend it with.
+
+It doesn't pay to be open-minded with everyone. Instead, spend your time exploring ideas with the most believable people you have access to.
+
+If you find you're at an impasse, agree on a person you both respect and enlist them to help moderate the discussion.
+
+Holding wrong opinions in one's head and making bad decisions based on them instead of having thoughtful disagreements is one of the greatest tragedies of mankind. Being able to thoughtfully disagree would so easily lead to radically improved decision making in al areas --- public policy, politics, medicine, science, philanthropy, personal relationships, and more.
+
+### 3.4 Triangulate your view with believable people who are willing to disagree.
+
+Smart people who can thoughtfully disagree are the greatest teachers, far better than a professor assigned to stand in front of a board and lecture at you.
+
+I find that most people don't do that --- they prefer to make their own decisions, even when they're not qualified to make the kinds of judgments required. In doing so, they're giving in to their lower-level selves.
+
+Even expert can make mistakes; my point is simply that it pays to be radically open-minded and triangulate with smart people.
+
+My point is that you can significantly raise your probabilities of making the right decisions by open-mindedly triangulating with believable people.
+
+### 3.5 Recognize the signs of closed-mindedness and open-mindedness that you should watch out for.
+
+**1. Closed-minded people don't want their ideas challenged.**
+
+They are typically frustrated that they can't get the other people to agree with them instead of curious as to why the other person disagrees.
+
+**Open-minded people are more curious about why there is disagreement.**
+
+**2. Closed-minded people are more likely to make statements than ask questions.**
+
+While believability entitles you to make statements in certain circumstances, truly open-minded people, even the most believable people I know, always ask a lot of questions.
+
+**Open-minded people genuinely believe they could be wrong; the questions that they ask are genuine.**
+
+**3. Closed-minded people focus on being understood than on understanding others.**
+
+**Open-minded people always feel compelled to see things through others' eyes.**
+
+**4. Closed-minded people say things like "I could be wrong... but here's my opinion."**
+
+**Open-minded people know when to make statements and when to ask questions.**
+
+**5. Closed-minded people block others from speaking.**
+
+**Open-minded people are always more interested in listening than in speaking; they encourage others to voice their views.**
+
+**6. Closed-minded have trouble holding two thoughts simultaneously in their minds.**
+
+**Open-minded people can take in the thoughts of others without losing their ability to think well --- they can hold two or more conflicting concepts in their mind and go back and forth between them to assess their relative merits**
+
+**7. Closed-minded people lack a deep sense of humility.**
+
+Humility typically comes from an experience of crashing, which leads to an enlightened focus on knowing what one doesn't know.
+
+**Open-minded people approach everything with a deep-seated fear that they may be wrong.**
+
+### 3.6 Understand how you can become radically open-minded
+
+**a. Regularly use pain as your guide toward quality reflection.**
+
+**b. Make being open-minded a habit**.
+
+The life that you will live is most simply the result of habits you develop.
+
+**c. Get to know your blind spots.**
+
+So take some time to record the circumstances in which you've consistently made bad decisions because you failed to see what others saw.
+
+**d. If a number of different believable people say you are doing something wrong and you are the only one who doesn't see it that way, assume that you are probably biased.**
+
+you should switch from a fighting mode to an "asking questions" mode, compare your believability with theirs, and if necessary agree to bring in a neutral party you all respect to break the deadlock.
+
+**e. Meditate.**
+
+It helps slow things down so that I can act calmly even in the face of chaos, just like a ninja in a street fight.
+
+**f. Be evidence-based and encourage others to be the same**.
+
+Most people do not look thoughtfully at the facts and draw their conclusions by objectively weighing the evidence. Instead, they make their decisions based on what their deep-seated subconscious mind wants and then they filter the evidence to make it consistent with those desires.
+
+When you're approaching a decision, ask yourself: Can you point to clear facts(i.e., facts believable people wouldn't dispute) leading to your view.
+
+**g. Do everything in your power to help others also be open-minded.**
+
+Be reasonable and expect others to be reasonable. Ask them to point to the evidence that supports their point of view. Remember, it is not an argument; it is an open exploration of what's true.
+
+**h. Use evidence-based decision-making tools.**
+
+**i. Know when it's best to stop fighting and have faith in your decision-making process.**
+
+Gaining open-mindedness doesn't mean losing assertiveness. In fact, because it increases one's odds of being right, it should increase one's confidence.
+
+Becoming truly open-minded takes time. Like all real learning, doing this is largely a matter of habit; once you do it so many times it is almost instinctive, you'll find it intolerable to be any other way. As noted earlier, this typically takes about eighteen months.
 
 
 
