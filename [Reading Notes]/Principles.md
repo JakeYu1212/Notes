@@ -714,6 +714,102 @@ Gaining open-mindedness doesn't mean losing assertiveness. In fact, because it i
 
 Becoming truly open-minded takes time. Like all real learning, doing this is largely a matter of habit; once you do it so many times it is almost instinctive, you'll find it intolerable to be any other way. As noted earlier, this typically takes about eighteen months.
 
+## 4  Understand That People Are Wired Very Differently
+
+Because of the different ways that our brains are wired, we all experience reality in different ways and any single way is essentially distorted.
+
+I wanted to work with independent thinkers who were creative, conceptual, and had a lot of common sense.
+
+The problem was that conceptual people who visualized what should be done in vague ways expected more literal people to figure out for themselves how to do it.
+
+Good people with good intentions get angry and emotional; it is frustrating and often becomes personal.
+
+Organizing people to complement their strengths and compensate for their weakness is like conducting an orchestra. It can be magnificent if done well and terrible if done poorly.
+
+### 4.1 Understand the power that comes from knowing how you and others are wired.
+
+Our different ways of thinking lead to our poor communications.
+
+and if you know what a person is like, you'll have a pretty good idea of what you can expect from them.
+
+**a. We are born with attributes that can both help us and hurt us, depending on their application.**
+
+Most attributes are a double-edged sword that bring potential benefits and potential harm. The more extreme the attribute, the more extreme the potential good or bad outcomes it is likely to produce.
+
+The brainstem controls the subconscious processes that keep us and other species alive --- heartbeat, breathing, nervous system, and our degree of arousal and alertness. The next layer up, the cerebellum, gives us the ability to control our limb movements by coordinating sensory input with our muscles. Then comes the cerebrum, which includes the basal ganglia(which controls habit) and other parts of the limbic system(which controls emotional responses and some movement) and the cerebral cortex(which is where our memories, thoughts, and sense of consciousness reside). The newest and most advanced part of the cortex, that wrinkled mass of gray matter that looks like a bunch of intestines, is called the neocortex, which is where learning, planning, imagination, and other higher-level thoughts come from.
+
+### 4.2 Meaningful work and meaningful relationships aren't just nice things we chose for ourselves --- they are genetically programmed into us.
+
+Neuroscientists, psychologists, and evolutionists agree the human brain comes pre-programmed with the need for and enjoyment of social cooperation. Our brains want it and develop better when we have it. The meaningful relationships we get from social cooperation make us happier, healthier, and more productive; social cooperation is also integral to effective work. It is one of the defining characteristics of being human.
+
+Lots of data show that relationships are the greatest reward --- that they're more important to your health and happiness than anything else.
+
+Wilson explains that man is perpetually suspended between the two extreme forces that created us: "Individual selection [which] prompted sin and group selection [which] promoted virtue."
+
+Which of these forces (self-interest or collective interest) wins out in any organization is a function of that organization's culture, which is a function of the people who shape it.
+
+the rewards of working together to make the pie bigger are greater than the rewards of self-interest, not only in terms of how much "pie" one gets but also in the psychic rewards wired into our brains that make us happier and healthier.
+
+His view was that prayer and meditation seemed to have similar effects on the brain in producing feelings of spirituality (the rising above oneself to feel a greater connection to the whole) but that each religion adds its own different superstitions on top of that common feeling of spirituality.
+
+### 4.3 Understand the great brain battles and how to control them to get what "you" want.
+
+**a. Realize that the conscious mind is in a battle with the subconscious mind.**
+
+Our subconscious fears and desires drive our motivations and actions through emotions such as love, fear, and inspiration.
+
+there are large parts of our brains that don't do what is logical.
+
+Our greatest moments of inspiration often "pop" up from our subconscious. We experience these creative breakthroughs when we are related and not trying to access the part of the brain in which they reside, which is general the neocortex.
+
+It's helpful to write down the results of this process. In fact that's how my Principles came about.
+
+**b. Know that the most constant struggle is between feeling and thinking.**
+
+Typically, these amygdala hijackings come on fast and dissipate quickly.
+
+Knowing how these hijackings work, you know that if you allow yourself to react spontaneously, you will be prone to overreact. You can also comfort yourself with the knowledge that whatever psychological pain you are experiencing will go away before very long.
+
+**c. Reconcile your feelings and your thinking.**
+
+For most people, life is a never-ending battle between these two parts of the brain.
+
+==The biggest difference between people who guide their own personal evolution and achieve their goals and those who don't is that those who make progress reflect on what causes their amygdala hijackings.==
+
+**d. Choose your habits well.**
+
+Habit is probably the most powerful tool in your brain's toolbox.
+
+If you do just about anything frequently enough overtime, you will form a habit that will control you.
+
+Good habits are those that get you to do what your "upper-level you" wants, and bad habits are those that are controlled by your "lower-level you" and stand the way of your getting what your "upper-level you" wants.
+
+Habit is essentially inertia, the strong tendency to keep doing what you have been doing(or not doing what you have not been doing).
+
+Research suggests that if your stick with a behavior for approximately eighteen months, you will build a strong tendency to stick to it nearly forever.
+
+Habits put your brain on "automatic pilot." In neuroscientific terms, the basal ganglia takes over from your cortex, so that you can execute activities without even thinking about them.
+
+the best thing you can do is choose which habits to acquire and which to get rid of and then go about doing that. To help you, I recommend that you write down your three most harmful habits. Do that right now. Now pick one of those habits and be committed to breaking it.
+
+The most valuable habit I've acquired is using pain to trigger quality reflections.
+
+**e. Train your "lower-level you " with kindness and persistence to build the right habits.**
+
+with loving kindness and persistence so that the right habits are acquired.
+
+**f. Understand the differences between right-brained and left-brained thinking.**
+
+**g. Understand how much the brain can and cannot change.**
+
+But recent research has suggested that a wide variety of practices --- from physical exercise to studying to meditation --- can lead to physical and physiological changes in our brains that affect our abilities to think and form memories.
+
+The best way to change is through doing mental exercises.
+
+Remember that accepting your weaknesses is contrary to the instincts of those parts of your brain that want to hold on to the illusion that your are perfect. Doing the things that will reduce your instinctual defensiveness takes practice, and requires operating in an environment that reinforces open-mindedness.
+
+### 4.4 Find out what you and others are like.
+
 
 
 
