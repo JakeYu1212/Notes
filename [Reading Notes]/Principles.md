@@ -810,6 +810,50 @@ Remember that accepting your weaknesses is contrary to the instincts of those pa
 
 ### 4.4 Find out what you and others are like.
 
+**a. Introversion vs. extroversion.**
+
+Introverts focus on the inner world and get their energy from ideas, memories, and experiences while extroverts are externally focused and get their energy from being with people.
+
+**b. Intuiting vs. sensing.**
+
+**c. Thinking vs feeling.**
+
+**d. Planning vs. perceiving.**
+
+Perceivers see new things and change direction often. This is discomforting to planners, who weigh precedent much more heavily in their decision making, and assume if it was done in a certain before, it should be done in the same way.
+
+**e. Creators vs. refiners vs. advancers vs. executors vs. flexors.**
+
+**f. Focusing on tasks vs focusing on goals.**
+
+**g. Workplace Personality Inventory.**
+
+They are not precise; they are more like simple caricatures, but they can be useful when it comes to assembling teams. Individual people will always be more complex than the archetypes that describe them, and they may well match up with more one.
+
+**h. Shapers are people who can go from visualization to actualization.**
+
+==I use the word to mean someone who comes up with unique and valuable visions and builds them out beautifully, typically over the doubts of others.==
+
+==Shapers get both the big pictures and the details right.==
+
+==Shapers = Visionary + Practical Thinker + Determined.==
+
+==I've found that shapers tend to share attributes such as intense curiosity and a compulsive need to make sense of things, independent thinking that verges on rebelliousness, a need to dream big and unconventionally, a practicality and determination to push through all obstacles to achieve their goals, and a knowledge of their own and others' weaknesses and strengths so they can orchestrate teams to achieve them. Perhaps even more importantly, they can hold conflicting thoughts simultaneously and look at them from different angles. They typically love to knock things around with other really smart people and can easily navigate back and forth between the big picture and the granular details, counting both as equally important.==
+
+It doesn't matter what you do with your life, as long as you are doing what is consistent with your nature and your aspirations.
+
+beyond a basic level, there is no correlation between happiness levels and conventional markers of success.
+
+If you've learned anything from this book I hope it's that everyone has strengths and weakness, and everyone has an important role to play in life.
+
+==The courage that's needed the most isn't the kind that drives you to prevail over others, but the kind that allows you to be true to your truest self, no matter what other people want you to be.==
+
+### 4.5  Getting the right people in the right roles in support of your goal is the key to succeeding at whatever you choose to accomplish.
+
+it is best for you to work with others in such a way that each person is matched up with other complementary people to create the best mix of attributes for their tasks.
+
+
+
 
 
 
