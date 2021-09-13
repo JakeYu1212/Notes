@@ -852,6 +852,34 @@ If you've learned anything from this book I hope it's that everyone has strength
 
 it is best for you to work with others in such a way that each person is matched up with other complementary people to create the best mix of attributes for their tasks.
 
+**a. Manage yourself and orchestrate others to get what you want.**
+
+Your greatest challenge will be having your thoughtful higher-level you manage your emotional lower-level you. The best way to do that is to consciously develop habits that will make doing the things that are good for you habitual.
+
+The person in charge is the shaper-conductor who doesn't "do" (e.g., doesn't play an instrument, though he or she knows a lot about instruments) as much as visualize the outcome and sees to it that each member of the orchestra helps achieve it.
+
+Each must not only perform at their personal best but work together so the orchestra becomes more than the sum of its parts.
+
+Some decisions you should make yourself and some you should delegate to someone more believable. Using self-knowledge to know which are which is the key to success --- no matter what it is you are trying to do.
+
+## 5  Learn How to Make Decisions Effectively
+
+most of the processes that go into everyday decision making are subconscious and more complex than is widely understood.
+
+### 5.1 Recognize that 1) the biggest threat to good decision making is harmful emotions, and 2) decision making is a two-step process (first learning and then deciding).
+
+what you know paints a true and rich picture of the realities that will affect your decision. That's why it always pays to be radically open-minded and seek out believable others as you do your learning.
+
+To do this well, you need to weigh first-order consequences against second- and third-order consequences, and base your decisions not just on near-term results but on results over time.
+
+Am I learning? Have I learned enough yet that it's time for deciding?
+
+the first pitfall of bad decision making, which is to subconsciously make the decision and then cherry-pick the data that supports it.
+
+**LEARNING WELL**
+
+For me, getting an accurate picture of reality ultimately comes down to two things: being able to synthesize accurately and knowing how to navigate levels.
+
 
 
 
