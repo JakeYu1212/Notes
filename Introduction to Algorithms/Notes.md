@@ -220,6 +220,14 @@ The height of a tree is equal to the maximum level of any node in the tree.
 
 **Definition Two**: A tree is either empty or consists of a root and zero or more subtrees, each of which is also a tree. The root of each subtree is connected to the root of the parent tree by an edge.
 
+#### 7.13 Search Tree Implementation
+
+**BST Property:** A binary search tree relies on the property that keys that are less than the parent are found in the left subtree, and keys that are greater than the parent are found in the right subtree.  BST represents binary search tree.
+
+`yield` is similar to `return` in that it returns a value to the caller. However, `yield` also takes the additional step of freezing the state of the function so that the next time the function is called it continues executing from the exact point it left off earlier. Functions that create objects that can be iterated are called generator functions.
+
+
+
 
 
 
