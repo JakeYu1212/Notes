@@ -880,6 +880,34 @@ the first pitfall of bad decision making, which is to subconsciously make the de
 
 For me, getting an accurate picture of reality ultimately comes down to two things: being able to synthesize accurately and knowing how to navigate levels.
 
+Synthesis is the process of converting a lot of data into an accurate picture.
+
+To synthesize well, you must 1) synthesize the situation at hand, 2) synthesize the situation through time, and 3) navigate levels effectively.
+
+### 5.2 Synthesize the situation at hand.
+
+To be effective, you need to be able to tell which dots are important and which dots are not.
+
+The key is having the higher-level perspective to make fast and accurate judgments on what the real risks are without getting bogged down in details.
+
+**a. One of the most important decisions you can make is who you ask questions of.**
+
+**b. Don't believe everything you hear.**
+
+Don't mistake opinions for facts.
+
+**c. Everything looks bigger up close.**
+
+**d. New is overvalued relative to great.**
+
+**e. Don't oversqueeze dots.**
+
+you need to know how much learning you can get out of any one dot without overweighing it.
+
+### 5.3 Synthesize the situation through time.
+
+
+
 
 
 
