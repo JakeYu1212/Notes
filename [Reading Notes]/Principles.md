@@ -906,6 +906,56 @@ you need to know how much learning you can get out of any one dot without overwe
 
 ### 5.3 Synthesize the situation through time.
 
+**a. Keep in mind both the rates of change and the levels of things, and the relationships between them.**
+
+They say "it's getting better" without noticing how far below the bar it is and whether the rate of change will get it above the bar in an acceptable amount of time.
+
+Everything important in your life needs to be on a trajectory to be above the bar and headed toward excellent at an appropriate pace.
+
+**b. Be imprecise.**
+
+"By-and-large" is the level at which you need to understand most things in order to make effective decisions.
+
+**c. Remember the 80/20 Rule and know what the key 20 percent is.**
+
+The 80/20 Rule states that you get 80 percent of the value out of something from 20 percent of the information or effort.
+
+**d. Be an imperfectionist.**
+
+the marginal gains of studying even the important things past a certain point are limited.
+
+### 5.4 Navigate levels effectively
+
+You need to know which level is appropriate to your decision.
+
+**a. Use the terms "above the line" and "below the line" to establish which level a conversation is on.**
+
+When a line of reasoning is jumbled and confusing, it's often because the speaker has gotten caught up in below-the-line details without connecting them back to the major points.
+
+An above-the-line discourse should progress in an orderly and accurate way to its conclusion, only going below the line when it's necessary to illustrate something about one of the major points.
+
+**b. Remember that decisions need to be made at the appropriate level, but they should also be consistent across levels.**
+
+In other words, you need to constantly connect and reconcile the data you're gathering at different levels in order to draw a complete picture of what's going on.
+
+### 5.5 Logic, reason, and common sense are your best tools for synthesizing reality and understanding what to do about it.
+
+As Carl Jung put it, "Until you make the unconscious conscious, it will direct your life and you will call it fate."
+
+It's even more important that decision making be evidence-based and logical when groups of people are working together. If it's not, the process will inevitably be dominated by the most powerful rather than the most insightful participants, which is not only unfair but suboptimal.
+
+Successful organizations have cultures in which evidence-based decision making is the norm rather than the exception.
+
+### 5.6 Make your decisions as expected value calculations.
+
+Play these probabilities over and over again and they will surely give you winning results over time.
+
+**a. Raising the probability of being right is valuable no matter what your probability of being right already is.**
+
+**b. Knowing when not to bet is as important as knowing what bets are probably worth making.**
+
+**c. The best choices are the ones that have more pros than cons, not those that don't have any cons at all.**
+
 
 
 
