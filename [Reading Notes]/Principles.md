@@ -1000,6 +1000,20 @@ The process of man's mind working with technology is what elevates us---it's wha
 
 Without deep understanding, you won't know if what happened in the past is genuinely of value and even if it was, you will not be able to know whether or not its value has disappeared---or worse. It's common for some decision rules to become so popular that they push the price far enough that it becomes smarter to do the opposite.
 
+A lot of people vest their blind faith in machine learning because they find it much easier than developing deep understanding.
+
+We can program the logic in both the computer that is our mind and the computer that is our tool so that they can work together and even double-check each other. Doing that is fabulous.
+
+We would do this by constantly simplifying these rules until their elegance is unmistakable.
+
+I myself find the excitement, lower risk, and educational value of achieving a deep understanding of cause-effect relationships much more appealing than a reliance on algorithms I don't understand, so I am drawn to that path.
+
+## LIFE PRINCIPLES: PUTTING IT ALL TOGETHER
+
+I believe that because the same kinds of things happen over and over again, a relatively few well-thought-out principles will allow you to deal with just about anything that reality throws at you.
+
+never stop refining and improving them.
+
 
 
 
