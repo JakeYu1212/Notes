@@ -956,6 +956,50 @@ Play these probabilities over and over again and they will surely give you winni
 
 **c. The best choices are the ones that have more pros than cons, not those that don't have any cons at all.**
 
+### 5.7 Prioritize by weighing the value of additional information against the cost of not deciding
+
+you need to constantly evaluate the marginal benefit of gathering more information against the marginal cost of waiting to decide.
+
+**a. All of your "must-dos" must be above the bar before you do your "like-to-dos."**
+
+**b. Chances are you won't have time to deal with the unimportant things, which is better than not having time to deal with the important things.**
+
+**c. Don't mistake possibilities for probabilities.**
+
+Anything is possible. It's the probabilities that matter. Everything must be weighed in terms of its likelihood and prioritized.
+
+### 5.8 Simplify!
+
+Get rid of irrelevant details so that the essential things and the relationships between them stand out.
+
+"Any damn fool can make it complex. It takes a genius to make it simple."
+
+### 5.9 Use principles.
+
+it's worth repeating that realizing that almost all "cases at hand" are just "another one of those," identifying which "one of those" it is, and then applying well-thought-out principles for dealing with it.
+
+1. Slow down your thinking so you can note the criteria you are using to make your decision.
+2. Write the criteria down as a principle.
+3. Think about those criteria when you have an outcome to assess, and refine them before the next "one of those" comes along.
+
+### 5.10 Believability weight your decision making
+
+To do it well, be sure to avoid the common perils of :1) valuing your own believability more than is logical and 2) not distinguishing between who is more or less credible.
+
+If you disagree on the principles, try to work through your disagreement based on your respective believabilities.
+
+### 5.11 Convert your principles into algorithms and have the computer make the decisions alongside you.
+
+In many cases, you will be able to test how that principle would have worked in the past or in various situations that will help you refine it, and in all cases, it will allow you to compound your understanding to a degree that would otherwise be impossible.
+
+Only human intelligence can apply the interpretations that are required to provide computer models with appropriate input.
+
+The process of man's mind working with technology is what elevates us---it's what has taken us from an economy where most people dig in the dirt to today's Information Age. It's for that reason that people who have common sense, imagination, and determination, who know what they value and what they want, and who also use computers, math, and game theory, are the best decision makers there are. At Bridgewater, we use our systems much as a driver uses a GPS in a car: not to substitute for our navigational abilities but to supplement them.
+
+### 5.12 Be cautious about trusting AI without having deep understanding.
+
+Without deep understanding, you won't know if what happened in the past is genuinely of value and even if it was, you will not be able to know whether or not its value has disappeared---or worse. It's common for some decision rules to become so popular that they push the price far enough that it becomes smarter to do the opposite.
+
 
 
 
