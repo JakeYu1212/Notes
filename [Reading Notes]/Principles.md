@@ -1014,6 +1014,10 @@ I believe that because the same kinds of things happen over and over again, a re
 
 never stop refining and improving them.
 
+Don't fall into the common trap of wishing that reality worked differently than it does or that your own realities were different. Instead, embrace your realities and deal with them effectively. After all, making the most of your circumstances is what life is all about. This includes being transparent with your thoughts and open-mindedly accepting the feedback of others. Doing so will dramatically increase your learning.
+
+Along your journey you will inevitably experience painful failures. It is important to realize that they can either be the impetus that fuels your personal evolution or they can ruin you, depending on how you react to them.
+
 
 
 
