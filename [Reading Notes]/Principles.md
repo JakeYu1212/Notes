@@ -1018,6 +1018,42 @@ Don't fall into the common trap of wishing that reality worked differently than 
 
 Along your journey you will inevitably experience painful failures. It is important to realize that they can either be the impetus that fuels your personal evolution or they can ruin you, depending on how you react to them.
 
+**5-Step Process for getting what you want**:
+
+1.setting goals
+
+2.identifying and not tolerating problems
+
+3.diagnosing problems
+
+4.coming up with designs to get around them
+
+5.doing the task required
+
+If you're willing  to confront reality, accept the pain that comes with doing so, and follow the 5-Step Process to drive yourself toward your goals, you're on the path to success.
+
+Yet most people fail to do this because they hold on to bad opinions that could easily be rectified by going above themselves to objectively look down at their situation and weigh what they and others think about it.
+
+**Ego Barrier**: our innate desire to be capable and have others recognize us as such.
+
+**Blind Spot Barrier**: the result of our seeing things through our own subjective lenses.
+
+The most important antidote for them is radical open-mindedness, which is motivated by the genuine worry that one might not be seeing one's choices optimally. It is the ability to effectively explore different points of view and different possibilities without letting your ego or your blind spots get in your way.
+
+**Practicing thoughtful disagreement**: which is the process of seeking out brilliant people who disagree with you in order to see things through their eyes and gain a deeper understanding.
+
+a) going after what you want,
+
+b) failing and reflecting well through radical open-mindedness,
+
+c) changing/evolving to become ever more capable and less fearful.
+
+We all need others to help us triangulate and get to the best possible decision---and to help us see our weaknesses objectively and compensate for them. More than anything else, your life is affected by the people around you and how you interact with each other.
+
+My Work Principles are basically the Life Principles you just read, applied to groups. I will show you, principle by principle, how an actual, practical, believability-weighed decision-making system converts independent thinking into effective group decision making. I believe that such a system can work to make any kind of organization---business, government, philanthropic---both more effective and more satisfying to belong to.
+
+# PART III WORK PRINCIPLES
+
 
 
 
