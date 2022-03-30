@@ -1054,7 +1054,23 @@ My Work Principles are basically the Life Principles you just read, applied to g
 
 # PART III WORK PRINCIPLES
 
+For any group or organization to function well, its work principles must be aligned with its members' life principles.
 
+If people in an organization feel that alignment, they will treasure their relationships and work together harmoniously; its culture will permeate everything they do.
+
+For that reason, it pays for all organizations---companies, governments, foundations, schools, hospitals, and so on---to spell out their principles and values clearly and explicitly and to operate by them consistently.
+
+Those principles and values aren't vague slogans... but a set of concrete directives anyone can understand, get aligned on, and carry out.
+
+- ## An organization is a machine consisting of two major parts: culture and people.
+
+the people who make up an organization determine the kind of culture it has, and the culture of the organization determines the kind of people who fit in.
+
+**a. A great organization has both great people and a great culture.**
+
+**b. Great people have both great character and great capabilities.**
+
+By great character, I mean they are radically truthful, radically transparent, 
 
 
 
